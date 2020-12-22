@@ -1,5 +1,5 @@
 # OCR NOTES COMPANION 
-<img src="./UniPad/UniPad/Assets.xcassets/AppIcon.appiconset/UniPad icon-1.png"
+<img src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-29@3x.png"
      alt="UniPad Icon"
      style="float: left; margin-right: 10px;"
      width="40" height="40" />
