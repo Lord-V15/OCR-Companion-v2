@@ -18,4 +18,6 @@ IOS app for taking quick notes using the camera and saving them as PDF, along wi
 - More Work can be seen in the [WWDC 2020 Session 657: Make apps smarter with Natural Language](https://developer.apple.com/videos/play/wwdc2020/10657)
 - **Click this [link](https://www.youtube.com/watch?v=og1rGgQGLB8) to watch the full app recording video on YouTube 🎥 :**
 
-[![OCR APP](https://j.gifs.com/QnPkLY.gif)](https://www.youtube.com/watch?v=og1rGgQGLB8)
+<p align="center">
+  <img src = "https://j.gifs.com/QnPkLY.gif" width="150"/>
+</p>
