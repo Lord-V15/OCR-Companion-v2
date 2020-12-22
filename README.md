@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-83.5@2x.png" alt="App logo" align="center">
+  <img width="200" src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-1024.png" alt="App logo" align="center">
 </p>
 <h1 align="center" style="margin-top: 0px;">OCR NOTES COMPANION</h1>
 
