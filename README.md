@@ -1,5 +1,4 @@
-# OCR NOTES COMPANION 
-<img src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-29@3x.png">
+# OCR NOTES COMPANION <img src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-29@3x.png">
 
 IOS app for taking quick notes using the camera and saving them as PDF, along with the OCR recognition of the text detected
 
