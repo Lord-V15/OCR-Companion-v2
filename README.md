@@ -11,12 +11,15 @@
   <img src="https://i.pinimg.com/originals/ec/19/ac/ec19ac3833df19c8ae266a2126536f73.png" width="250"/>
 </p>
 
-## Overview
+<p align="center" style="margin-bottom: 0px !important;">
+<h2 align="center" style="margin-top: 0px;">Overview</h2>
 
 - Note: Inspiration taken from the WWDC keynote [WWDC 2019 Session 232: Advances in Natural Language Framework](https://developer.apple.com/videos/play/wwdc2019/232/).
 - Planning to expand it to export information in a spreadsheet (csv)
 - More Work can be seen in the [WWDC 2020 Session 657: Make apps smarter with Natural Language](https://developer.apple.com/videos/play/wwdc2020/10657)
 - **Click this [link](https://www.youtube.com/watch?v=og1rGgQGLB8) to watch the full app recording video on YouTube 🎥**
+</p>
 
+<p align = "center">
 <img src = "https://j.gifs.com/QnPkLY.gif" width="200"/>
-
+</p>
