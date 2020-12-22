@@ -3,7 +3,7 @@
 IOS app for taking quick notes using the camera and saving them as PDF, along with the text detected
 
 <p float="left">
-  <img src="https://i.pinimg.com/originals/04/87/5b/04875b50042d589e9b4a54295e1a7219.jpg" width="250" />
+  <img src="https://i.pinimg.com/originals/e2/a9/14/e2a914b1d0b6c62b1989c674bd4c1efe.jpg" width="250" />
   <img src="https://i.pinimg.com/564x/7b/e6/70/7be670dd3b05828ce5e152ba66bf3565.jpg" width="250" /> 
   <img src="https://i.pinimg.com/originals/ec/19/ac/ec19ac3833df19c8ae266a2126536f73.png" width="250"/>
 </p>
@@ -14,4 +14,4 @@ IOS app for taking quick notes using the camera and saving them as PDF, along wi
 - Planning to expand it to export information in a spreadsheet (csv)
 - More Work can be seen in the [WWDC 2020 Session 657: Make apps smarter with Natural Language](https://developer.apple.com/videos/play/wwdc2020/10657)
 
-[![OCR APP](https://j.gifs.com/QnPkLY.gif)](https://www.youtube.com/watch?v=og1rGgQGLB8)
+[![OCR APP]](https://www.youtube.com/watch?v=og1rGgQGLB8)
