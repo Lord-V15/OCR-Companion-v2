@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="margin-top: 0px;">OCR NOTES COMPANION</h1>
 
-IOS app for taking quick notes using the camera and saving them as PDF, along with the text detected by the OCR Model
+<p align="center">IOS app for taking quick notes using the camera and saving them as PDF, along with the text detected by the OCR Model</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e2/a9/14/e2a914b1d0b6c62b1989c674bd4c1efe.jpg" width="250" />
