@@ -2,9 +2,7 @@
 
 IOS app for taking quick notes using the camera and saving them as PDF, along with the text detected
 
-<p align="center">
-<img align="center" src="https://i.pinimg.com/originals/04/87/5b/04875b50042d589e9b4a54295e1a7219.jpg" width="250">
-</p>
+<img src="https://i.pinimg.com/originals/04/87/5b/04875b50042d589e9b4a54295e1a7219.jpg" width="250">
 
 ## Overview
 
