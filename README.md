@@ -5,7 +5,7 @@
 
 IOS app for taking quick notes using the camera and saving them as PDF, along with the text detected by the OCR Model
 
-<p float="center">
+<p align="center">
   <img src="https://i.pinimg.com/originals/e2/a9/14/e2a914b1d0b6c62b1989c674bd4c1efe.jpg" width="250" />
   <img src="https://i.pinimg.com/564x/7b/e6/70/7be670dd3b05828ce5e152ba66bf3565.jpg" width="250" /> 
   <img src="https://i.pinimg.com/originals/ec/19/ac/ec19ac3833df19c8ae266a2126536f73.png" width="250"/>
