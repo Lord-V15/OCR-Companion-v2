@@ -1,0 +1,1774 @@
+s01-000-00-0 ok # There exist several methods to design forms with fields to
+s01-000-00-1 ok # fields may be surrounded by bounding bozes, by light rectangles o
+s01-000-00-2 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-3 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-4 ok # is located below the form or they can be printed directly on the f
+s01-000-00-5 ok # but requires giving more instructions and, more importantly, rest
+s01-000-00-6 ok # this type of acquisition is used. Guiding rulers printed on the
+s01-000-00-7 ok # used for this reason. Light rectangles can be removed more easily
+s01-000-00-8 ok # whenever the handwritten text touches the rulers. Nevertheless,
+s01-000-00-9 ok # be taken into account: The best way to print these light rectan.
+s01-000-00-10 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-11 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-12 ok # used. The mean filter is a lowpass or smoothing filter that rep
+s01-000-00-13 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-14 ok # filter calculates the median of the pixel neighborhood for each
+s01-000-00-15 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-16 ok # to eliminate small objects from images.
+s01-000-00-17 ok # The main goal was to train a neural network in a supervised
+s01-000-00-18 ok # image from a noisy one. In this particular case, it was much ec
+s01-000-00-19 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-20 ok # There exist several methods to design forms with fields to
+s01-000-00-21 ok # fields may be surrounded by bounding bozes, by light rectangles o
+s01-000-00-22 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-23 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-24 ok # is located below the form or they can be printed directly on the f
+s01-000-00-25 ok # but requires giving more instructions and, more importantly, rest
+s01-000-00-26 ok # this type of acquisition is used. Guiding rulers printed on the
+s01-000-00-27 ok # used for this reason. Light rectangles can be removed more easily
+s01-000-00-28 ok # whenever the handwritten text touches the rulers. Nevertheless,
+s01-000-00-29 ok # be taken into account: The best way to print these light rectan.
+s01-000-00-30 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-31 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-32 ok # used. The mean filter is a lowpass or smoothing filter that rep
+s01-000-00-33 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-34 ok # filter calculates the median of the pixel neighborhood for each
+s01-000-00-35 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-36 ok # to eliminate small objects from images.
+s01-000-00-37 ok # The main goal was to train a neural network in a supervised
+s01-000-00-38 ok # image from a noisy one. In this particular case, it was much ec
+s01-000-00-39 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-40 ok # There exist several methods to design forms with fields to
+s01-000-00-41 ok # fields may be surrounded by bounding bozes, by light rectangles o
+s01-000-00-42 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-43 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-44 ok # is located below the form or they can be printed directly on the f
+s01-000-00-45 ok # but requires giving more instructions and, more importantly, rest
+s01-000-00-46 ok # this type of acquisition is used. Guiding rulers printed on the
+s01-000-00-47 ok # used for this reason. Light rectangles can be removed more easily
+s01-000-00-48 ok # whenever the handwritten text touches the rulers. Nevertheless,
+s01-000-00-49 ok # be taken into account: The best way to print these light rectan.
+s01-000-00-50 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-51 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-52 ok # used. The mean filter is a lowpass or smoothing filter that rep
+s01-000-00-53 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-54 ok # filter calculates the median of the pixel neighborhood for each
+s01-000-00-55 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-56 ok # to eliminate small objects from images.
+s01-000-00-57 ok # The main goal was to train a neural network in a supervised
+s01-000-00-58 ok # image from a noisy one. In this particular case, it was much ec
+s01-000-00-59 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-60 ok # There exist several methods to design forms with fields to
+s01-000-00-61 ok # fields may be surrounded by bounding bozes, by light rectangles o
+s01-000-00-62 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-63 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-64 ok # is located below the form or they can be printed directly on the f
+s01-000-00-65 ok # but requires giving more instructions and, more importantly, rest
+s01-000-00-66 ok # this type of acquisition is used. Guiding rulers printed on the
+s01-000-00-67 ok # used for this reason. Light rectangles can be removed more easily
+s01-000-00-68 ok # whenever the handwritten text touches the rulers. Nevertheless,
+s01-000-00-69 ok # be taken into account: The best way to print these light rectan.
+s01-000-00-70 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-71 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-72 ok # used. The mean filter is a lowpass or smoothing filter that rep
+s01-000-00-73 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-74 ok # filter calculates the median of the pixel neighborhood for each
+s01-000-00-75 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-76 ok # to eliminate small objects from images.
+s01-000-00-77 ok # The main goal was to train a neural network in a supervised
+s01-000-00-78 ok # image from a noisy one. In this particular case, it was much ec
+s01-000-00-79 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-80 ok # There exist several methods to design forms with fields to
+s01-000-00-81 ok # fields may be surrounded by bounding boxes, by light rectan
+s01-000-00-82 ok # ‘These methods specify where to write and, therefore, minimi
+s01-000-00-83 ok # overlapping with other parts of the form. These guides can
+s01-000-00-84 ok # sheet of paper that is located below the form or they can b
+s01-000-00-85 ok # quality of the scanned image, but requires giving more instructio
+s01-000-00-86 ok # restricts its use to tasks where this type of acquisition is used.
+s01-000-00-87 ok # the form are more commonly used for this reason. Light re
+s01-000-00-88 ok # more easily with filters than dark lines whenever the handwritt
+s01-000-00-89 ok # Nevertheless, other practical issues must be taken into accoun
+s01-000-00-90 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-91 ok # from images. The mean filter, the median filter and the closing 0
+s01-000-00-92 ok # used. The mean filter is a lowpass or smoothing filter that repl
+s01-000-00-93 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-94 ok # filter calculates the median of the pixel neighborhood for each p
+s01-000-00-95 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-96 ok # to eliminate small objects from images.
+s01-000-00-97 ok # ‘The main goal was to train a neural network in a supervised
+s01-000-00-98 ok # image from a noisy one. In this particular case, it was much ea
+s01-000-00-99 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-100 ok # There exist several methods to design forms with fields to
+s01-000-00-101 ok # fields may be surrounded by bounding boxes, by light rectan
+s01-000-00-102 ok # ‘These methods specify where to write and, therefore, minimi
+s01-000-00-103 ok # overlapping with other parts of the form. These guides can
+s01-000-00-104 ok # sheet of paper that is located below the form or they can b
+s01-000-00-105 ok # quality of the scanned image, but requires giving more instructio
+s01-000-00-106 ok # restricts its use to tasks where this type of acquisition is used.
+s01-000-00-107 ok # the form are more commonly used for this reason. Light re
+s01-000-00-108 ok # more easily with filters than dark lines whenever the handwritt
+s01-000-00-109 ok # Nevertheless, other practical issues must be taken into accoun
+s01-000-00-110 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-111 ok # from images. The mean filter, the median filter and the closing
+s01-000-00-112 ok # used. The mean filter is a lowpass or smoothing filter that repl
+s01-000-00-113 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-114 ok # filter calculates the median of the pixel neighborhood for each p
+s01-000-00-115 ok # that combines the same number of erosion and dilation morpho
+s01-000-00-116 ok # to eliminate small objects from images.
+s01-000-00-117 ok # ‘The main goal was to train a neural network in a supervised
+s01-000-00-118 ok # image from a noisy one. In this particular case, it was much ea
+s01-000-00-119 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-120 ok # There exist several methods to design forms with fields to
+s01-000-00-121 ok # fields may be surrounded by bounding boxes, by light rectan
+s01-000-00-122 ok # ‘These methods specify where to write and, therefore, minimi
+s01-000-00-123 ok # overlapping with other parts of the form. These guides can
+s01-000-00-124 ok # sheet of paper that is located below the form or they can b
+s01-000-00-125 ok # quality of the scanned image, but requires giving more instructio
+s01-000-00-126 ok # restricts its use to tasks where this type of acquisition is used.
+s01-000-00-127 ok # the form are more commonly used for this reason. Light re
+s01-000-00-128 ok # more easily with filters than dark lines whenever the handwritt
+s01-000-00-129 ok # Nevertheless, other practical issues must be taken into accoun
+s01-000-00-130 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-131 ok # from images. The mean filter, the median filter and the closing 0
+s01-000-00-132 ok # used. The mean filter is a lowpass or smoothing filter that repl
+s01-000-00-133 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-134 ok # filter calculates the median of the pixel neighborhood for each p
+s01-000-00-135 ok # that combines the same number of erosion and dilation morpho!
+s01-000-00-136 ok # to eliminate small objects from images.
+s01-000-00-137 ok # ‘The main goal was to train a neural network in a supervised
+s01-000-00-138 ok # image from a noisy one. In this particular case, it was much ea
+s01-000-00-139 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-140 ok # There exist several methods to design forms with fields to
+s01-000-00-141 ok # fields may be surrounded by bounding boxes, by light rectan
+s01-000-00-142 ok # ‘These methods specify where to write and, therefore, minimi
+s01-000-00-143 ok # overlapping with other parts of the form. These guides can
+s01-000-00-144 ok # sheet of paper that is located below the form or they can b
+s01-000-00-145 ok # quality of the scanned image, but requires giving more instructio
+s01-000-00-146 ok # restricts its use to tasks where this type of acquisition is used.
+s01-000-00-147 ok # the form are more commonly used for this reason. Light re
+s01-000-00-148 ok # more easily with filters than dark lines whenever the handwritt
+s01-000-00-149 ok # Nevertheless, other practical issues must be taken into accoun
+s01-000-00-150 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-151 ok # from images. The mean filter, the median filter and the closing 0
+s01-000-00-152 ok # used. The mean filter is a lowpass or smoothing filter that repl
+s01-000-00-153 ok # the neighborhood mean. It reduces the image noise but blurs the
+s01-000-00-154 ok # filter calculates the median of the pixel neighborhood for each p
+s01-000-00-155 ok # that combines the same number of erosion and dilation morpho!
+s01-000-00-156 ok # to eliminate small objects from images.
+s01-000-00-157 ok # ‘The main goal was to train a neural network in a supervised
+s01-000-00-158 ok # image from a noisy one. In this particular case, it was much ea
+s01-000-00-159 ok # noisy image from a clean one than to clean a subset of noisy
+s01-000-00-160 ok # There exist several methods to design forms with fields to
+s01-000-00-161 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-162 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-163 ok # with other parts of the form. These guides can be located on a se
+s01-000-00-164 ok # Js located below the form or they can be printed directly on the fo
+s01-000-00-165 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-166 ok # type of acquisition is used. Guiding rulers printed on the form are rr
+s01-000-00-167 ok # reason. Light rectangles can be removed more easily with filters tl
+s01-000-00-168 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-169 ok # The best way to print these light rectangles is in a differ
+s01-000-00-170 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-171 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-172 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-173 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-174 ok # calculates the median of the pixel neighborhood for each pixel, th
+s01-000-00-175 ok # the same number of erosion and dilation morphological operations
+s01-000-00-176 ok # objects from images.
+s01-000-00-177 ok # The main goal was to train a neural network in a supervised
+s01-000-00-178 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-179 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-180 ok # There exist several methods to design forms with fields to
+s01-000-00-181 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-182 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-183 ok # with other parts of the form. These guides can be located on a se
+s01-000-00-184 ok # Js located below the form or they can be printed directly on the fo
+s01-000-00-185 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-186 ok # type of acquisition is used. Guiding rulers printed on the form are rr
+s01-000-00-187 ok # reason. Light rectangles can be removed more easily with filters tl
+s01-000-00-188 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-189 ok # The best way to print these light rectangles is in a differ
+s01-000-00-190 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-191 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-192 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-193 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-194 ok # calculates the median of the pixel neighborhood for each pixel, th
+s01-000-00-195 ok # the same number of erosion and dilation morphological operations
+s01-000-00-196 ok # objects from images.
+s01-000-00-197 ok # The main goal was to train a neural network in a supervised
+s01-000-00-198 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-199 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-200 ok # There exist several methods to design forms with fields to
+s01-000-00-201 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-202 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-203 ok # with other parts of the form. These guides can be located on a se
+s01-000-00-204 ok # Js located below the form or they can be printed directly on the fo
+s01-000-00-205 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-206 ok # type of acquisition is used. Guiding rulers printed on the form are rr
+s01-000-00-207 ok # reason. Light rectangles can be removed more easily with filters tl
+s01-000-00-208 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-209 ok # The best way to print these light rectangles is in a differ
+s01-000-00-210 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-211 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-212 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-213 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-214 ok # calculates the median of the pixel neighborhood for each pixel, th
+s01-000-00-215 ok # the same number of erosion and dilation morphological operations
+s01-000-00-216 ok # objects from images.
+s01-000-00-217 ok # The main goal was to train a neural network in a supervised
+s01-000-00-218 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-219 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-220 ok # There exist several methods to design forms with fields to
+s01-000-00-221 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-222 ok # methods specify where to write and, therefore, minimize the effe
+s01-000-00-223 ok # with other parts of the form. These guides can be located on a se
+s01-000-00-224 ok # Js located below the form or they can be printed directly on the fo
+s01-000-00-225 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-226 ok # type of acquisition is used. Guiding rulers printed on the form are rr
+s01-000-00-227 ok # reason. Light rectangles can be removed more easily with filters tl
+s01-000-00-228 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-229 ok # The best way to print these light rectangles is in a differ
+s01-000-00-230 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-231 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-232 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-233 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-234 ok # calculates the median of the pixel neighborhood for each pixel, th
+s01-000-00-235 ok # the same number of erosion and dilation morphological operations
+s01-000-00-236 ok # objects from images.
+s01-000-00-237 ok # The main goal was to train a neural network in a supervised
+s01-000-00-238 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-239 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-240 ok # There exist several methods to design forms with fields to
+s01-000-00-241 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-242 ok # methods specify where to write and, therefore, minimize the effec
+s01-000-00-243 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-244 ok # is located below the form or they can be printed directly on the fo
+s01-000-00-245 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-246 ok # type of acquisition is used. Guiding rulers printed on the form are m
+s01-000-00-247 ok # reason. Light rectangles can be removed more easily with filters th
+s01-000-00-248 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-249 ok # account: The best way to print these light rectangles is in a differs
+s01-000-00-250 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-251 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-252 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-253 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-254 ok # calculates the median of the pixel neighborhood for each pixel, thi
+s01-000-00-255 ok # the same number of erosion and dilation morphological operations
+s01-000-00-256 ok # objects from images.
+s01-000-00-257 ok # The main goal was to train a neural network In a supervised
+s01-000-00-258 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-259 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-260 ok # There exist several methods to design forms with fields to
+s01-000-00-261 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-262 ok # methods specify where to write and, therefore, minimize the effec
+s01-000-00-263 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-264 ok # is located below the form or they can be printed directly on the fo
+s01-000-00-265 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-266 ok # type of acquisition is used. Guiding rulers printed on the form are m
+s01-000-00-267 ok # reason. Light rectangles can be removed more easily with filters th
+s01-000-00-268 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-269 ok # account: The best way to print these light rectangles is in a differs
+s01-000-00-270 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-271 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-272 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-273 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-274 ok # calculates the median of the pixel neighborhood for each pixel, thi
+s01-000-00-275 ok # the same number of erosion and dilation morphological operations
+s01-000-00-276 ok # objects from images.
+s01-000-00-277 ok # The main goal was to train a neural network In a supervised
+s01-000-00-278 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-279 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-280 ok # There exist several methods to design forms with fields to
+s01-000-00-281 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-282 ok # methods specify where to write and, therefore, minimize the effec
+s01-000-00-283 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-284 ok # is located below the form or they can be printed directly on the fo
+s01-000-00-285 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-286 ok # type of acquisition is used. Guiding rulers printed on the form are m
+s01-000-00-287 ok # reason. Light rectangles can be removed more easily with filters th
+s01-000-00-288 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-289 ok # account: The best way to print these light rectangles is in a differs
+s01-000-00-290 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-291 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-292 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-293 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-294 ok # calculates the median of the pixel neighborhood for each pixel, thi
+s01-000-00-295 ok # the same number of erosion and dilation morphological operations
+s01-000-00-296 ok # objects from images.
+s01-000-00-297 ok # The main goal was to train a neural network In a supervised
+s01-000-00-298 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-299 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-300 ok # There exist several methods to design forms with fields to
+s01-000-00-301 ok # fields may be surrounded by bounding boxes, by light rectangles
+s01-000-00-302 ok # methods specify where to write and, therefore, minimize the effec
+s01-000-00-303 ok # with other parts of the form. These guides can be located on a s
+s01-000-00-304 ok # is located below the form or they can be printed directly on the fo
+s01-000-00-305 ok # requires giving more instructions and, more importantly, restricts
+s01-000-00-306 ok # type of acquisition is used. Guiding rulers printed on the form are m
+s01-000-00-307 ok # reason. Light rectangles can be removed more easily with filters th
+s01-000-00-308 ok # handwritten text touches the rulers. Nevertheless, other practical
+s01-000-00-309 ok # account: The best way to print these light rectangles is in a differs
+s01-000-00-310 ok # There are several classic spatial filters for reducing or elimin
+s01-000-00-311 ok # from images. The mean filter, the median filter and the closing o
+s01-000-00-312 ok # used. The mean filter is a lowpass or smoothing filter that replace
+s01-000-00-313 ok # neighborhood mean. It reduces the image noise but blurs the imag
+s01-000-00-314 ok # calculates the median of the pixel neighborhood for each pixel, thi
+s01-000-00-315 ok # the same number of erosion and dilation morphological operations
+s01-000-00-316 ok # objects from images.
+s01-000-00-317 ok # The main goal was to train a neural network In a supervised
+s01-000-00-318 ok # image from a noisy one. In this particular case, it was much easier
+s01-000-00-319 ok # image from a clean one than to clean a subset of noisy images.
+s01-000-00-320 ok # there exist several methods to design forms wrth f
+s01-000-00-321 ok # wnstance, frelas may be surrounded by bounding bores,
+s01-000-00-322 ok # guiding rulers. These methods specify where to write.
+s01-000-00-323 ok # the effect of skew and overlapping with other parts of
+s01-000-00-324 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-325 ok # they can be printed dvirectly on the form. Ihe use of
+s01-000-00-326 ok # ais much better from the point of view of the quality o.
+s01-000-00-327 ok # requires guving more instructions and, more wmportanttl
+s01-000-00-328 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-329 ok # are more commonly used for this reason. Light rectang
+s01-000-00-330 ok # easily with filters than dark lines whenever the handw
+s01-000-00-331 ok # There are several classic spatial filters for reduc
+s01-000-00-332 ok # frequency noise from images. The mean filter, the med
+s01-000-00-333 ok # opening filter are frequently used. The mean filter.
+s01-000-00-334 ok # filter that replaces the pizel values with the neighbo
+s01-000-00-335 ok # the image noise but blurs the image edges. The median
+s01-000-00-336 ok # of the prizel neighborhood for each przel, thereby redu
+s01-000-00-337 ok # Finally, the opening closing filter ts a mathematical
+s01-000-00-338 ok # combines the same number of eroston and dilation morph
+s01-000-00-339 ok # to eliminate small objects from images.
+s01-000-00-340 ok # The main goal was to train a neural network ina st
+s01-000-00-341 ok # a clean image from a noisy one. In this particular ca
+s01-000-00-342 ok # there exist several methods to design forms wrth f
+s01-000-00-343 ok # wnstance, frelas may be surrounded by bounding bores,
+s01-000-00-344 ok # guiding rulers. These methods specify where to write.
+s01-000-00-345 ok # the effect of skew and overlapping with other parts of
+s01-000-00-346 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-347 ok # they can be printed dvirectly on the form. Ihe use of
+s01-000-00-348 ok # ais much better from the point of view of the quality o.
+s01-000-00-349 ok # requires guving more instructions and, more wmportanttl
+s01-000-00-350 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-351 ok # are more commonly used for this reason. Light rectang
+s01-000-00-352 ok # easily with filters than dark lines whenever the handw
+s01-000-00-353 ok # There are several classic spatial filters for reduc
+s01-000-00-354 ok # frequency noise from images. The mean filter, the med
+s01-000-00-355 ok # opening filter are frequently used. The mean filter
+s01-000-00-356 ok # filter that replaces the pizel values with the neighbo
+s01-000-00-357 ok # the image noise but blurs the image edges. The median
+s01-000-00-358 ok # of the prizel neighborhood for each przel, thereby redu
+s01-000-00-359 ok # Finally, the opening closing filter ts a mathematical
+s01-000-00-360 ok # combines the same number of eroston and dilation morph
+s01-000-00-361 ok # to eliminate small objects from images.
+s01-000-00-362 ok # The main goal was to train a neural network ina st
+s01-000-00-363 ok # a clean image from a noisy one. In this particular ca
+s01-000-00-364 ok # there exist several methods to design forms wrth f
+s01-000-00-365 ok # wnstance, frelas may be surrounded by bounding bores,
+s01-000-00-366 ok # guiding rulers. These methods specify where to write.
+s01-000-00-367 ok # the effect of skew and overlapping with other parts of
+s01-000-00-368 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-369 ok # they can be printed dvirectly on the form. Ihe use of
+s01-000-00-370 ok # ais much better from the point of view of the quality o.
+s01-000-00-371 ok # requires guving more instructions and, more wmportanttl
+s01-000-00-372 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-373 ok # are more commonly used for this reason. Light rectang
+s01-000-00-374 ok # easily with filters than dark lines whenever the handw
+s01-000-00-375 ok # There are several classic spatial filters for reduc
+s01-000-00-376 ok # frequency noise from images. The mean filter, the med
+s01-000-00-377 ok # opening filter are frequently used. The mean filter
+s01-000-00-378 ok # filter that replaces the pizel values with the neighbo
+s01-000-00-379 ok # the image noise but blurs the image edges. The median
+s01-000-00-380 ok # of the prizel neighborhood for each przel, thereby redu
+s01-000-00-381 ok # Finally, the opening closing filter ts a mathematical |
+s01-000-00-382 ok # combines the same number of eroston and dilation morph
+s01-000-00-383 ok # to eliminate small objects from images.
+s01-000-00-384 ok # The main goal was to train a neural network ina st
+s01-000-00-385 ok # a clean image from a noisy one. In this particular ca
+s01-000-00-386 ok # there exist several methods to design forms wrth f
+s01-000-00-387 ok # wnstance, frelas may be surrounded by bounding bores,
+s01-000-00-388 ok # guiding rulers. These methods specify where to write.
+s01-000-00-389 ok # the effect of skew and overlapping with other parts of
+s01-000-00-390 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-391 ok # they can be printed dvirectly on the form. Ihe use of
+s01-000-00-392 ok # ais much better from the point of view of the quality o.
+s01-000-00-393 ok # requires guving more instructions and, more wmportanttl
+s01-000-00-394 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-395 ok # are more commonly used for this reason. Light rectang
+s01-000-00-396 ok # easily with filters than dark lines whenever the handw
+s01-000-00-397 ok # There are several classic spatial filters for reduc
+s01-000-00-398 ok # frequency noise from images. The mean filter, the med
+s01-000-00-399 ok # opening filter are frequently used. The mean filter
+s01-000-00-400 ok # filter that replaces the pizel values with the neighbo
+s01-000-00-401 ok # the image noise but blurs the image edges. The median
+s01-000-00-402 ok # of the prizel neighborhood for each przel, thereby redu
+s01-000-00-403 ok # Finally, the opening closing filter ts a mathematical
+s01-000-00-404 ok # combines the same number of eroston and dilation morph
+s01-000-00-405 ok # to eliminate small objects from images.
+s01-000-00-406 ok # The main goal was to train a neural network ina st
+s01-000-00-407 ok # a clean image from a noisy one. In this particular ca
+s01-000-00-408 ok # There exist several methods to design forms with fi
+s01-000-00-409 ok # instance, fields may be surrounded by bounding boxes,
+s01-000-00-410 ok # guiding rulers. These methods specify where to write
+s01-000-00-411 ok # the effect of skew and overlapping with other parts of
+s01-000-00-412 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-413 ok # they can be printed directly on the form. The use of
+s01-000-00-414 ok # is much better from the point of view of the quality o
+s01-000-00-415 ok # requires giving more instructions and, more important
+s01-000-00-416 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-417 ok # are more commonly used for this reason. Light rectang
+s01-000-00-418 ok # easily with filters than dark lines whenever the hands
+s01-000-00-419 ok # There are several classic spatial filters for reduc
+s01-000-00-420 ok # frequency noise from images. The mean filter, the med
+s01-000-00-421 ok # opening filter are frequently used. The mean filter i
+s01-000-00-422 ok # filter that replaces the pixel values with the neighb
+s01-000-00-423 ok # the image noise but blurs the image edges. The median
+s01-000-00-424 ok # of the pixel neighborhood for each pixel, thereby redu
+s01-000-00-425 ok # Finally, the opening closing filter is a mathematical
+s01-000-00-426 ok # combines the same number of erosion and dilation morph
+s01-000-00-427 ok # to eliminate small objects from images.
+s01-000-00-428 ok # The main goal was to train a neural network in a st
+s01-000-00-429 ok # a clean image from a noisy one. In this particular c
+s01-000-00-430 ok # There exist several methods to design forms with fi
+s01-000-00-431 ok # instance, fields may be surrounded by bounding boxes,
+s01-000-00-432 ok # guiding rulers. These methods specify where to write
+s01-000-00-433 ok # the effect of skew and overlapping with other parts of
+s01-000-00-434 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-435 ok # they can be printed directly on the form. The use of
+s01-000-00-436 ok # is much better from the point of view of the quality o:
+s01-000-00-437 ok # requires giving more instructions and, more important
+s01-000-00-438 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-439 ok # are more commonly used for this reason. Light rectang
+s01-000-00-440 ok # easily with filters than dark lines whenever the hands
+s01-000-00-441 ok # There are several classic spatial filters for reduc
+s01-000-00-442 ok # frequency noise from images. The mean filter, the med
+s01-000-00-443 ok # opening filter are frequently used. The mean filter i
+s01-000-00-444 ok # filter that replaces the pixel values with the neighb
+s01-000-00-445 ok # the image noise but blurs the image edges. The median
+s01-000-00-446 ok # of the pixel neighborhood for each pixel, thereby redu
+s01-000-00-447 ok # Finally, the opening closing filter is a mathematical
+s01-000-00-448 ok # combines the same number of erosion and dilation morph
+s01-000-00-449 ok # to eliminate small objects from images.
+s01-000-00-450 ok # The main goal was to train a neural network in a st
+s01-000-00-451 ok # a clean image from a noisy one. In this particular c
+s01-000-00-452 ok # There exist several methods to design forms with fi
+s01-000-00-453 ok # instance, fields may be surrounded by bounding boxes,
+s01-000-00-454 ok # guiding rulers. These methods specify where to write
+s01-000-00-455 ok # the effect of skew and overlapping with other parts of
+s01-000-00-456 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-457 ok # they can be printed directly on the form. The use of
+s01-000-00-458 ok # is much better from the point of view of the quality o:
+s01-000-00-459 ok # requires giving more instructions and, more important
+s01-000-00-460 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-461 ok # are more commonly used for this reason. Light rectang
+s01-000-00-462 ok # easily with filters than dark lines whenever the hands
+s01-000-00-463 ok # There are several classic spatial filters for reduc
+s01-000-00-464 ok # frequency noise from images. The mean filter, the med
+s01-000-00-465 ok # opening filter are frequently used. The mean filter i
+s01-000-00-466 ok # filter that replaces the pixel values with the neighb
+s01-000-00-467 ok # the image noise but blurs the image edges. The median
+s01-000-00-468 ok # of the pixel neighborhood for each pixel, thereby redu
+s01-000-00-469 ok # Finally, the opening closing filter is a mathematical
+s01-000-00-470 ok # combines the same number of erosion and dilation morph
+s01-000-00-471 ok # to eliminate small objects from images.
+s01-000-00-472 ok # The main goal was to train a neural network in a st
+s01-000-00-473 ok # a clean image from a noisy one. In this particular c
+s01-000-00-474 ok # There exist several methods to design forms with fi
+s01-000-00-475 ok # instance, fields may be surrounded by bounding boxes,
+s01-000-00-476 ok # guiding rulers. These methods specify where to write
+s01-000-00-477 ok # the effect of skew and overlapping with other parts of
+s01-000-00-478 ok # can be located on a separate sheet of paper that is lo
+s01-000-00-479 ok # they can be printed directly on the form. The use of
+s01-000-00-480 ok # is much better from the point of view of the quality o:
+s01-000-00-481 ok # requires giving more instructions and, more important
+s01-000-00-482 ok # tasks where this type of acquisition is used. Guiding
+s01-000-00-483 ok # are more commonly used for this reason. Light rectang
+s01-000-00-484 ok # easily with filters than dark lines whenever the hands
+s01-000-00-485 ok # There are several classic spatial filters for reduc
+s01-000-00-486 ok # frequency noise from images. The mean filter, the med
+s01-000-00-487 ok # opening filter are frequently used. The mean filter i
+s01-000-00-488 ok # filter that replaces the pixel values with the neighb
+s01-000-00-489 ok # the image noise but blurs the image edges. The median
+s01-000-00-490 ok # of the pixel neighborhood for each pixel, thereby redu
+s01-000-00-491 ok # Finally, the opening closing filter is a mathematical
+s01-000-00-492 ok # combines the same number of erosion and dilation morph
+s01-000-00-493 ok # to eliminate small objects from images.
+s01-000-00-494 ok # The main goal was to train a neural network in a st
+s01-000-00-495 ok # a clean image from a noisy one. In this particular c
+s01-000-00-496 ok # There exist several methods to design
+s01-000-00-497 ok # to be filled in. For instance, fields may
+s01-000-00-498 ok # bounding boxes, by light rectangles or b
+s01-000-00-499 ok # These methods specify where to write and
+s01-000-00-500 ok # mize the effect of skew and overlapping w
+s01-000-00-501 ok # the form. These guides can be located on a
+s01-000-00-502 ok # paper that is located below the form or th
+s01-000-00-503 ok # directly on the form. The use of guides o
+s01-000-00-504 ok # is much better from the point of view of
+s01-000-00-505 ok # scanned image, but requires giving more
+s01-000-00-506 ok # more importantly, restricts its use to tasks
+s01-000-00-507 ok # There are several classic spatial filter
+s01-000-00-508 ok # eliminating high frequency noise from in
+s01-000-00-509 ok # filter, the median filter and the closing
+s01-000-00-510 ok # frequently used. The mean filter is a lowp
+s01-000-00-511 ok # filter that replaces the pixel values with
+s01-000-00-512 ok # mean. It reduces the image noise but blurs
+s01-000-00-513 ok # The median filter calculates the median o
+s01-000-00-514 ok # borhood for each pixel, thereby reducing tl
+s01-000-00-515 ok # Finally, the opening closing filter is a m
+s01-000-00-516 ok # phological filter that combines the same n
+s01-000-00-517 ok # and dilation morphological operations in c
+s01-000-00-518 ok # There exist several methods to design
+s01-000-00-519 ok # to be filled in. For instance, fields may
+s01-000-00-520 ok # bounding boxes, by light rectangles or b
+s01-000-00-521 ok # These methods specify where to write and
+s01-000-00-522 ok # mize the effect of skew and overlapping w
+s01-000-00-523 ok # the form. These guides can be located on a
+s01-000-00-524 ok # paper that is located below the form or th
+s01-000-00-525 ok # directly on the form. The use of guides o
+s01-000-00-526 ok # is much better from the point of view of
+s01-000-00-527 ok # scanned image, but requires giving more
+s01-000-00-528 ok # more importantly, restricts its use to tasks
+s01-000-00-529 ok # There are several classic spatial filter
+s01-000-00-530 ok # eliminating high frequency noise from in
+s01-000-00-531 ok # filter, the median filter and the closing
+s01-000-00-532 ok # frequently used. The mean filter is a lowp
+s01-000-00-533 ok # filter that replaces the pixel values with
+s01-000-00-534 ok # mean. It reduces the image noise but blurs
+s01-000-00-535 ok # The median filter calculates the median o
+s01-000-00-536 ok # borhood for each pixel, thereby reducing tl
+s01-000-00-537 ok # Finally, the opening closing filter is a m
+s01-000-00-538 ok # phological filter that combines the same n
+s01-000-00-539 ok # and dilation morphological operations in c
+s01-000-00-540 ok # There exist several methods to design
+s01-000-00-541 ok # to be filled in. For instance, fields may
+s01-000-00-542 ok # bounding boxes, by light rectangles or b
+s01-000-00-543 ok # These methods specify where to write and
+s01-000-00-544 ok # mize the effect of skew and overlapping w
+s01-000-00-545 ok # the form. These guides can be located on a
+s01-000-00-546 ok # paper that is located below the form or th
+s01-000-00-547 ok # directly on the form. The use of guides o
+s01-000-00-548 ok # is much better from the point of view of
+s01-000-00-549 ok # scanned image, but requires giving more
+s01-000-00-550 ok # more importantly, restricts its use to tasks
+s01-000-00-551 ok # There are several classic spatial filter
+s01-000-00-552 ok # eliminating high frequency noise from in
+s01-000-00-553 ok # filter, the median filter and the closing
+s01-000-00-554 ok # frequently used. The mean filter is a lowp
+s01-000-00-555 ok # filter that replaces the pixel values with
+s01-000-00-556 ok # mean. It reduces the image noise but blurs
+s01-000-00-557 ok # The median filter calculates the median o
+s01-000-00-558 ok # borhood for each pixel, thereby reducing tl
+s01-000-00-559 ok # Finally, the opening closing filter is a m
+s01-000-00-560 ok # phological filter that combines the same n
+s01-000-00-561 ok # and dilation morphological operations in c
+s01-000-00-562 ok # There exist several methods to design
+s01-000-00-563 ok # to be filled in. For instance, fields may
+s01-000-00-564 ok # bounding boxes, by light rectangles or b
+s01-000-00-565 ok # These methods specify where to write and
+s01-000-00-566 ok # mize the effect of skew and overlapping w
+s01-000-00-567 ok # the form. These guides can be located on a
+s01-000-00-568 ok # paper that is located below the form or th
+s01-000-00-569 ok # directly on the form. The use of guides o
+s01-000-00-570 ok # is much better from the point of view of
+s01-000-00-571 ok # scanned image, but requires giving more
+s01-000-00-572 ok # more importantly, restricts its use to tasks
+s01-000-00-573 ok # There are several classic spatial filter
+s01-000-00-574 ok # eliminating high frequency noise from in
+s01-000-00-575 ok # filter, the median filter and the closing
+s01-000-00-576 ok # frequently used. The mean filter is a lowp
+s01-000-00-577 ok # filter that replaces the pixel values with
+s01-000-00-578 ok # mean. It reduces the image noise but blurs
+s01-000-00-579 ok # The median filter calculates the median o
+s01-000-00-580 ok # borhood for each pixel, thereby reducing tl
+s01-000-00-581 ok # Finally, the opening closing filter is a m
+s01-000-00-582 ok # phological filter that combines the same n
+s01-000-00-583 ok # and dilation morphological operations in c
+s01-000-00-584 ok # ‘There exist several methods to design
+s01-000-00-585 ok # to be filled in. For instance, fields may
+s01-000-00-586 ok # bounding boxes, by light rectangles or b
+s01-000-00-587 ok # These methods specify where to write and
+s01-000-00-588 ok # mize the effect of skew and overlapping w
+s01-000-00-589 ok # the form. These guides can be located on a
+s01-000-00-590 ok # paper that is located below the form or thi
+s01-000-00-591 ok # directly on the form. The use of guides on
+s01-000-00-592 ok # is much better from the point of view of t
+s01-000-00-593 ok # scanned image, but requires giving more
+s01-000-00-594 ok # more importantly, restricts its use to task
+s01-000-00-595 ok # ‘There are several classic spatial filters
+s01-000-00-596 ok # eliminating high frequency noise from im
+s01-000-00-597 ok # filter, the median filter and the closing
+s01-000-00-598 ok # frequently used. The mean filter is a lowp
+s01-000-00-599 ok # filter that replaces the pixel values with t
+s01-000-00-600 ok # mean. It reduces the image noise but blurs
+s01-000-00-601 ok # The median filter calculates the median o
+s01-000-00-602 ok # borhood for each pixel, thereby reducing t
+s01-000-00-603 ok # Finally, the opening closing filter is a m
+s01-000-00-604 ok # phological filter that combines the same n
+s01-000-00-605 ok # and dilation morphological operations in
+s01-000-00-606 ok # ‘There exist several methods to design
+s01-000-00-607 ok # to be filled in. For instance, fields may
+s01-000-00-608 ok # bounding boxes, by light rectangles or b
+s01-000-00-609 ok # These methods specify where to write and
+s01-000-00-610 ok # mize the effect of skew and overlapping w
+s01-000-00-611 ok # the form. These guides can be located on a
+s01-000-00-612 ok # paper that is located below the form or thi
+s01-000-00-613 ok # directly on the form. The use of guides on
+s01-000-00-614 ok # is much better from the point of view of t
+s01-000-00-615 ok # scanned image, but requires giving more
+s01-000-00-616 ok # more importantly, restricts its use to task
+s01-000-00-617 ok # ‘There are several classic spatial filters
+s01-000-00-618 ok # eliminating high frequency noise from im
+s01-000-00-619 ok # filter, the median filter and the closing
+s01-000-00-620 ok # frequently used. The mean filter is a lowp
+s01-000-00-621 ok # filter that replaces the pixel values with t
+s01-000-00-622 ok # mean. It reduces the image noise but blurs
+s01-000-00-623 ok # The median filter calculates the median o
+s01-000-00-624 ok # borhood for each pixel, thereby reducing t
+s01-000-00-625 ok # Finally, the opening closing filter is a m
+s01-000-00-626 ok # phological filter that combines the same n
+s01-000-00-627 ok # and dilation morphological operations in
+s01-000-00-628 ok # ‘There exist several methods to design
+s01-000-00-629 ok # to be filled in. For instance, fields may
+s01-000-00-630 ok # bounding boxes, by light rectangles or b
+s01-000-00-631 ok # These methods specify where to write and
+s01-000-00-632 ok # mize the effect of skew and overlapping w
+s01-000-00-633 ok # the form. These guides can be located on a
+s01-000-00-634 ok # paper that is located below the form or thi
+s01-000-00-635 ok # directly on the form. The use of guides on
+s01-000-00-636 ok # is much better from the point of view of t
+s01-000-00-637 ok # scanned image, but requires giving more
+s01-000-00-638 ok # more importantly, restricts its use to task
+s01-000-00-639 ok # ‘There are several classic spatial filters
+s01-000-00-640 ok # eliminating high frequency noise from im
+s01-000-00-641 ok # filter, the median filter and the closing
+s01-000-00-642 ok # frequently used. The mean filter is a lowp
+s01-000-00-643 ok # filter that replaces the pixel values with t
+s01-000-00-644 ok # mean. It reduces the image noise but blurs
+s01-000-00-645 ok # The median filter calculates the median o
+s01-000-00-646 ok # borhood for each pixel, thereby reducing t
+s01-000-00-647 ok # Finally, the opening closing filter is a m
+s01-000-00-648 ok # phological filter that combines the same n
+s01-000-00-649 ok # and dilation morphological operations in
+s01-000-00-650 ok # ‘There exist several methods to design
+s01-000-00-651 ok # to be filled in. For instance, fields may
+s01-000-00-652 ok # bounding boxes, by light rectangles or b
+s01-000-00-653 ok # These methods specify where to write and
+s01-000-00-654 ok # mize the effect of skew and overlapping w
+s01-000-00-655 ok # the form. These guides can be located on a
+s01-000-00-656 ok # paper that is located below the form or thi
+s01-000-00-657 ok # directly on the form. The use of guides on
+s01-000-00-658 ok # is much better from the point of view of t
+s01-000-00-659 ok # scanned image, but requires giving more
+s01-000-00-660 ok # more importantly, restricts its use to task
+s01-000-00-661 ok # ‘There are several classic spatial filters
+s01-000-00-662 ok # eliminating high frequency noise from im
+s01-000-00-663 ok # filter, the median filter and the closing
+s01-000-00-664 ok # frequently used. The mean filter is a lowp
+s01-000-00-665 ok # filter that replaces the pixel values with t
+s01-000-00-666 ok # mean. It reduces the image noise but blurs
+s01-000-00-667 ok # The median filter calculates the median o
+s01-000-00-668 ok # borhood for each pixel, thereby reducing t
+s01-000-00-669 ok # Finally, the opening closing filter is a m
+s01-000-00-670 ok # phological filter that combines the same n
+s01-000-00-671 ok # and dilation morphological operations in
+s01-000-00-672 ok # There exist several methods to design fo
+s01-000-00-673 ok # be filled in. For instance, fields may be surr
+s01-000-00-674 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-675 ok # ods specify where to write and, therefore, n
+s01-000-00-676 ok # of skew and overlapping with other parts o
+s01-000-00-677 ok # guides can be located on a separate sheet
+s01-000-00-678 ok # located below the form or they can be print
+s01-000-00-679 ok # form. The use of guides on a separate she
+s01-000-00-680 ok # from the point of view of the quality of tt
+s01-000-00-681 ok # but requires giving more instructions and,
+s01-000-00-682 ok # restricts its use to tasks where this type of a
+s01-000-00-683 ok # There are several classic spatial filters for
+s01-000-00-684 ok # inating high frequency noise from images.
+s01-000-00-685 ok # the median filter and the closing opening fi
+s01-000-00-686 ok # used. The mean filter is a lowpass or smc
+s01-000-00-687 ok # replaces the pixel values with the neighbor
+s01-000-00-688 ok # duces the image noise but blurs the image e
+s01-000-00-689 ok # filter calculates the median of the pixel neig
+s01-000-00-690 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-691 ok # closing filter is a mathematical morphologic
+s01-000-00-692 ok # bines the same number of erosion and dilat
+s01-000-00-693 ok # operations in order to eliminate small objec
+s01-000-00-694 ok # There exist several methods to design fo
+s01-000-00-695 ok # be filled in. For instance, fields may be surr
+s01-000-00-696 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-697 ok # ods specify where to write and, therefore, n
+s01-000-00-698 ok # of skew and overlapping with other parts o
+s01-000-00-699 ok # guides can be located on a separate sheet
+s01-000-00-700 ok # located below the form or they can be print
+s01-000-00-701 ok # form. The use of guides on a separate she
+s01-000-00-702 ok # from the point of view of the quality of tt
+s01-000-00-703 ok # but requires giving more instructions and,
+s01-000-00-704 ok # restricts its use to tasks where this type of a
+s01-000-00-705 ok # There are several classic spatial filters for
+s01-000-00-706 ok # inating high frequency noise from images.
+s01-000-00-707 ok # the median filter and the closing opening fi
+s01-000-00-708 ok # used. The mean filter is a lowpass or smc
+s01-000-00-709 ok # replaces the pixel values with the neighbor
+s01-000-00-710 ok # duces the image noise but blurs the image e
+s01-000-00-711 ok # filter calculates the median of the pixel neig
+s01-000-00-712 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-713 ok # closing filter is a mathematical morphologic
+s01-000-00-714 ok # bines the same number of erosion and dilat
+s01-000-00-715 ok # operations in order to eliminate small objec
+s01-000-00-716 ok # There exist several methods to design fo
+s01-000-00-717 ok # be filled in. For instance, fields may be surr
+s01-000-00-718 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-719 ok # ods specify where to write and, therefore, n
+s01-000-00-720 ok # of skew and overlapping with other parts o
+s01-000-00-721 ok # guides can be located on a separate sheet
+s01-000-00-722 ok # located below the form or they can be print
+s01-000-00-723 ok # form. The use of guides on a separate she
+s01-000-00-724 ok # from the point of view of the quality of tt
+s01-000-00-725 ok # but requires giving more instructions and,
+s01-000-00-726 ok # restricts its use to tasks where this type of a
+s01-000-00-727 ok # There are several classic spatial filters for
+s01-000-00-728 ok # inating high frequency noise from images.
+s01-000-00-729 ok # the median filter and the closing opening fi
+s01-000-00-730 ok # used. The mean filter is a lowpass or smc
+s01-000-00-731 ok # replaces the pixel values with the neighbor
+s01-000-00-732 ok # duces the image noise but blurs the image e
+s01-000-00-733 ok # filter calculates the median of the pixel neig
+s01-000-00-734 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-735 ok # closing filter is a mathematical morphologic
+s01-000-00-736 ok # bines the same number of erosion and dilat
+s01-000-00-737 ok # operations in order to eliminate small objec
+s01-000-00-738 ok # There exist several methods to design fo
+s01-000-00-739 ok # be filled in. For instance, fields may be surr
+s01-000-00-740 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-741 ok # ods specify where to write and, therefore, n
+s01-000-00-742 ok # of skew and overlapping with other parts o
+s01-000-00-743 ok # guides can be located on a separate sheet
+s01-000-00-744 ok # located below the form or they can be print
+s01-000-00-745 ok # form. The use of guides on a separate she
+s01-000-00-746 ok # from the point of view of the quality of tt
+s01-000-00-747 ok # but requires giving more instructions and,
+s01-000-00-748 ok # restricts its use to tasks where this type of a
+s01-000-00-749 ok # There are several classic spatial filters for
+s01-000-00-750 ok # inating high frequency noise from images.
+s01-000-00-751 ok # the median filter and the closing opening fi
+s01-000-00-752 ok # used. The mean filter is a lowpass or smc
+s01-000-00-753 ok # replaces the pixel values with the neighbor
+s01-000-00-754 ok # duces the image noise but blurs the image e
+s01-000-00-755 ok # filter calculates the median of the pixel neig
+s01-000-00-756 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-757 ok # closing filter is a mathematical morphologic
+s01-000-00-758 ok # bines the same number of erosion and dilat
+s01-000-00-759 ok # operations in order to eliminate small objec
+s01-000-00-760 ok # ‘There exist several methods to design fo
+s01-000-00-761 ok # be filled in. For instance, fields may be surr
+s01-000-00-762 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-763 ok # ods specify where to write and, therefore, n
+s01-000-00-764 ok # of skew and overlapping with other parts o1
+s01-000-00-765 ok # guides can be located on a separate sheet
+s01-000-00-766 ok # located below the form or they can be print
+s01-000-00-767 ok # form. The use of guides on a separate she
+s01-000-00-768 ok # from the point of view of the quality of th
+s01-000-00-769 ok # but requires giving more instructions and,
+s01-000-00-770 ok # restricts its use to tasks where this type of a
+s01-000-00-771 ok # ‘There are several classic spatial filters for
+s01-000-00-772 ok # inating high frequency noise from images.
+s01-000-00-773 ok # the median filter and the closing opening fi
+s01-000-00-774 ok # used. The mean filter is a lowpass or smc
+s01-000-00-775 ok # replaces the pixel values with the neighbort
+s01-000-00-776 ok # duces the image noise but blurs the image e
+s01-000-00-777 ok # filter calculates the median of the pixel neig
+s01-000-00-778 ok # pixel, thereby reducing the blurring effect.
+s01-000-00-779 ok # closing filter is a mathematical morphologic
+s01-000-00-780 ok # bines the same number of erosion and dilat
+s01-000-00-781 ok # operations in order to eliminate small object
+s01-000-00-782 ok # ‘There exist several methods to design fo
+s01-000-00-783 ok # be filled in. For instance, fields may be surr
+s01-000-00-784 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-785 ok # ods specify where to write and, therefore, n
+s01-000-00-786 ok # of skew and overlapping with other parts o1
+s01-000-00-787 ok # guides can be located on a separate sheet
+s01-000-00-788 ok # located below the form or they can be print
+s01-000-00-789 ok # form. The use of guides on a separate she
+s01-000-00-790 ok # from the point of view of the quality of th
+s01-000-00-791 ok # but requires giving more instructions and,
+s01-000-00-792 ok # restricts its use to tasks where this type of a
+s01-000-00-793 ok # ‘There are several classic spatial filters for
+s01-000-00-794 ok # inating high frequency noise from images.
+s01-000-00-795 ok # the median filter and the closing opening fi
+s01-000-00-796 ok # used. The mean filter is a lowpass or smc
+s01-000-00-797 ok # replaces the pixel values with the neighbort
+s01-000-00-798 ok # duces the image noise but blurs the image e
+s01-000-00-799 ok # filter calculates the median of the pixel neig
+s01-000-00-800 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-801 ok # closing filter is a mathematical morphologic
+s01-000-00-802 ok # bines the same number of erosion and dilat
+s01-000-00-803 ok # operations in order to eliminate small object
+s01-000-00-804 ok # ‘There exist several methods to design fo
+s01-000-00-805 ok # be filled in. For instance, fields may be surr
+s01-000-00-806 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-807 ok # ods specify where to write and, therefore, n
+s01-000-00-808 ok # of skew and overlapping with other parts o1
+s01-000-00-809 ok # guides can be located on a separate sheet
+s01-000-00-810 ok # located below the form or they can be print
+s01-000-00-811 ok # form. The use of guides on a separate she
+s01-000-00-812 ok # from the point of view of the quality of th
+s01-000-00-813 ok # but requires giving more instructions and,
+s01-000-00-814 ok # restricts its use to tasks where this type of a
+s01-000-00-815 ok # ‘There are several classic spatial filters for
+s01-000-00-816 ok # inating high frequency noise from images.
+s01-000-00-817 ok # the median filter and the closing opening fi
+s01-000-00-818 ok # used. The mean filter is a lowpass or smc
+s01-000-00-819 ok # replaces the pixel values with the neighbort
+s01-000-00-820 ok # duces the image noise but blurs the image e
+s01-000-00-821 ok # filter calculates the median of the pixel neig
+s01-000-00-822 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-823 ok # closing filter is a mathematical morphologic
+s01-000-00-824 ok # bines the same number of erosion and dilat
+s01-000-00-825 ok # operations in order to eliminate small object
+s01-000-00-826 ok # ‘There exist several methods to design fo
+s01-000-00-827 ok # be filled in. For instance, fields may be surr
+s01-000-00-828 ok # Ing boxes, by light rectangles or by guiding rt
+s01-000-00-829 ok # ods specify where to write and, therefore, n
+s01-000-00-830 ok # of skew and overlapping with other parts o
+s01-000-00-831 ok # guides can be located on a separate sheet
+s01-000-00-832 ok # located below the form or they can be print
+s01-000-00-833 ok # form. The use of guides on a separate she
+s01-000-00-834 ok # from the point of view of the quality of th
+s01-000-00-835 ok # but requires giving more instructions and,
+s01-000-00-836 ok # restricts its use to tasks where this type of a
+s01-000-00-837 ok # ‘There are several classic spatial filters for
+s01-000-00-838 ok # inating high frequency noise from images.
+s01-000-00-839 ok # the median filter and the closing opening fi
+s01-000-00-840 ok # used. The mean filter is a lowpass or smc
+s01-000-00-841 ok # replaces the pixel values with the neighbort
+s01-000-00-842 ok # duces the image noise but blurs the image e
+s01-000-00-843 ok # filter calculates the median of the pixel neig
+s01-000-00-844 ok # pixel, thereby reducing the blurring effect. F
+s01-000-00-845 ok # closing filter is a mathematical morphologic
+s01-000-00-846 ok # bines the same number of erosion and dilat
+s01-000-00-847 ok # operations in order to eliminate small object
+s01-000-00-848 ok # There extst several methods to «
+s01-000-00-849 ok # fields to be filled in. For insta
+s01-000-00-850 ok # be surrounded by bounding bozes, bt
+s01-000-00-851 ok # or by guiding rulers. These methe
+s01-000-00-852 ok # to write and, therefore, minimize
+s01-000-00-853 ok # and overlapping wrth other parts o
+s01-000-00-854 ok # guides can be located on a separat
+s01-000-00-855 ok # that z~s located below the form or
+s01-000-00-856 ok # directly on the form. The use of
+s01-000-00-857 ok # sheet ts much better from the poin
+s01-000-00-858 ok # quality of the scanned image, but
+s01-000-00-859 ok # There are several classic spatic
+s01-000-00-860 ok # or eliminating high frequency nots
+s01-000-00-861 ok # The mean filter, the median filter
+s01-000-00-862 ok # opening filter are frequently usea
+s01-000-00-863 ok # as a lowpass or smoothing filter t
+s01-000-00-864 ok # przel values with the nerghborhooa
+s01-000-00-865 ok # the wmage norse but blurs the wmag
+s01-000-00-866 ok # filter calculates the median of th
+s01-000-00-867 ok # for each pizel, thereby reducing t
+s01-000-00-868 ok # Finally, the opening closing filte
+s01-000-00-869 ok # morphological filter that combines
+s01-000-00-870 ok # There extst several methods to
+s01-000-00-871 ok # fields to be filled in. For insta
+s01-000-00-872 ok # be surrounded by bounding bozes, bt
+s01-000-00-873 ok # or by guiding rulers. These methe
+s01-000-00-874 ok # to write and, therefore, minimize
+s01-000-00-875 ok # and overlapping wrth other parts o
+s01-000-00-876 ok # guides can be located on a separat
+s01-000-00-877 ok # that z~s located below the form or
+s01-000-00-878 ok # directly on the form. The use of
+s01-000-00-879 ok # sheet ts much better from the poin
+s01-000-00-880 ok # quality of the scanned image, but
+s01-000-00-881 ok # There are several classic spatic
+s01-000-00-882 ok # or eliminating high frequency nots
+s01-000-00-883 ok # The mean filter, the median filter
+s01-000-00-884 ok # opening filter are frequently usea
+s01-000-00-885 ok # as a lowpass or smoothing filter t
+s01-000-00-886 ok # przel values with the nerghborhooa
+s01-000-00-887 ok # the wmage norse but blurs the wmag
+s01-000-00-888 ok # filter calculates the median of th
+s01-000-00-889 ok # for each pizel, thereby reducing t
+s01-000-00-890 ok # Finally, the opening closing filte
+s01-000-00-891 ok # morphological filter that combines
+s01-000-00-892 ok # There extst several methods to
+s01-000-00-893 ok # fields to be filled in. For insta
+s01-000-00-894 ok # be surrounded by bounding bozes, bt
+s01-000-00-895 ok # or by guiding rulers. These methe
+s01-000-00-896 ok # to write and, therefore, minimize
+s01-000-00-897 ok # and overlapping wrth other parts o
+s01-000-00-898 ok # guides can be located on a separat
+s01-000-00-899 ok # that z~s located below the form or
+s01-000-00-900 ok # directly on the form. The use of
+s01-000-00-901 ok # sheet ts much better from the poin
+s01-000-00-902 ok # quality of the scanned image, but
+s01-000-00-903 ok # There are several classic spatic
+s01-000-00-904 ok # or eliminating high frequency nots
+s01-000-00-905 ok # The mean filter, the median filter
+s01-000-00-906 ok # opening filter are frequently usea
+s01-000-00-907 ok # as a lowpass or smoothing filter t
+s01-000-00-908 ok # przel values with the nerghborhooa
+s01-000-00-909 ok # the wmage norse but blurs the wmag
+s01-000-00-910 ok # filter calculates the median of th
+s01-000-00-911 ok # for each pizel, thereby reducing t
+s01-000-00-912 ok # Finally, the opening closing filte
+s01-000-00-913 ok # morphological filter that combines
+s01-000-00-914 ok # There extst several methods to
+s01-000-00-915 ok # fields to be filled in. For insta
+s01-000-00-916 ok # be surrounded by bounding bozes, bt
+s01-000-00-917 ok # or by guiding rulers. These methe
+s01-000-00-918 ok # to write and, therefore, minimize
+s01-000-00-919 ok # and overlapping wrth other parts o
+s01-000-00-920 ok # guides can be located on a separat
+s01-000-00-921 ok # that z~s located below the form or
+s01-000-00-922 ok # directly on the form. The use of
+s01-000-00-923 ok # sheet ts much better from the poin
+s01-000-00-924 ok # quality of the scanned image, but
+s01-000-00-925 ok # There are several classic spatic
+s01-000-00-926 ok # or eliminating high frequency nots
+s01-000-00-927 ok # The mean filter, the median filter
+s01-000-00-928 ok # opening filter are frequently usea
+s01-000-00-929 ok # as a lowpass or smoothing filter t
+s01-000-00-930 ok # przel values with the nerghborhooa
+s01-000-00-931 ok # the wmage norse but blurs the wmag
+s01-000-00-932 ok # filter calculates the median of th
+s01-000-00-933 ok # for each pizel, thereby reducing t
+s01-000-00-934 ok # Finally, the opening closing filte
+s01-000-00-935 ok # morphological filter that combines
+s01-000-00-936 ok # There exists several methods to d
+s01-000-00-937 ok # fields to be filled in. For instar
+s01-000-00-938 ok # be surrounded by bounding boxes, bj
+s01-000-00-939 ok # or by guiding rulers. Ihese methoc
+s01-000-00-940 ok # to write and, therefore, minimize
+s01-000-00-941 ok # and overlapping with other parts of
+s01-000-00-942 ok # guides can be located on a Separate
+s01-000-00-943 ok # that is located below the form or t
+s01-000-00-944 ok # directly on the form. The use of
+s01-000-00-945 ok # sheet is much better from the point
+s01-000-00-946 ok # quality of the scanned image, but
+s01-000-00-947 ok # Ihere are several classic spatia.
+s01-000-00-948 ok # or eliminating high frequency noise
+s01-000-00-949 ok # mean filter, the median filter and
+s01-000-00-950 ok # filter are frequently used. The me
+s01-000-00-951 ok # lowpass or smoothing filter that re
+s01-000-00-952 ok # values with the neighborhood mean.
+s01-000-00-953 ok # image noise but blurs the image edg
+s01-000-00-954 ok # filter calculates the median of the
+s01-000-00-955 ok # for each pixel, thereby reducing tl
+s01-000-00-956 ok # Finally, the opening closing filter
+s01-000-00-957 ok # morphological filter that combines
+s01-000-00-958 ok # There exists several methods to d
+s01-000-00-959 ok # fields to be filled in. For instar
+s01-000-00-960 ok # be surrounded by bounding boxes, bj
+s01-000-00-961 ok # or by guiding rulers. Ihese methoc
+s01-000-00-962 ok # to write and, therefore, minimize 1
+s01-000-00-963 ok # and overlapping with other parts of
+s01-000-00-964 ok # guides can be located on a Separate
+s01-000-00-965 ok # that is located below the form or t
+s01-000-00-966 ok # directly on the form. The use of ¢g
+s01-000-00-967 ok # sheet is much better from the point
+s01-000-00-968 ok # quality of the scanned image, but 1
+s01-000-00-969 ok # Ihere are several classic spatia.
+s01-000-00-970 ok # or eliminating high frequency noise
+s01-000-00-971 ok # mean filter, the median filter and
+s01-000-00-972 ok # filter are frequently used. The me
+s01-000-00-973 ok # lowpass or smoothing filter that re
+s01-000-00-974 ok # values with the neighborhood mean.
+s01-000-00-975 ok # image noise but blurs the image edg
+s01-000-00-976 ok # filter calculates the median of the
+s01-000-00-977 ok # for each pixel, thereby reducing tl
+s01-000-00-978 ok # Finally, the opening closing filter
+s01-000-00-979 ok # morphological filter that combines
+s01-000-00-980 ok # There exists several methods to d
+s01-000-00-981 ok # fields to be filled in. For instar
+s01-000-00-982 ok # be surrounded by bounding boxes, bj
+s01-000-00-983 ok # or by guiding rulers. Ihese methoc
+s01-000-00-984 ok # to write and, therefore, minimize
+s01-000-00-985 ok # and overlapping with other parts of
+s01-000-00-986 ok # guides can be located on a Separate
+s01-000-00-987 ok # that is located below the form or t
+s01-000-00-988 ok # directly on the form. The use of 
+s01-000-00-989 ok # sheet is much better from the point
+s01-000-00-990 ok # quality of the scanned image, but
+s01-000-00-991 ok # Ihere are several classic spatia.
+s01-000-00-992 ok # or eliminating high frequency noise
+s01-000-00-993 ok # mean filter, the median filter and
+s01-000-00-994 ok # filter are frequently used. The me
+s01-000-00-995 ok # lowpass or smoothing filter that re
+s01-000-00-996 ok # values with the neighborhood mean.
+s01-000-00-997 ok # image noise but blurs the image edg
+s01-000-00-998 ok # filter calculates the median of the
+s01-000-00-999 ok # for each pixel, thereby reducing tl
+s01-000-00-1000 ok # Finally, the opening closing filter
+s01-000-00-1001 ok # morphological filter that combines
+s01-000-00-1002 ok # There exists several methods to d
+s01-000-00-1003 ok # fields to be filled in. For instar
+s01-000-00-1004 ok # be surrounded by bounding boxes, bj
+s01-000-00-1005 ok # or by guiding rulers. Ihese methoc
+s01-000-00-1006 ok # to write and, therefore, minimize
+s01-000-00-1007 ok # and overlapping with other parts of
+s01-000-00-1008 ok # guides can be located on a Separate
+s01-000-00-1009 ok # that is located below the form or t
+s01-000-00-1010 ok # directly on the form. The use of
+s01-000-00-1011 ok # sheet is much better from the point
+s01-000-00-1012 ok # quality of the scanned image, but
+s01-000-00-1013 ok # Ihere are several classic spatia.
+s01-000-00-1014 ok # or eliminating high frequency noise
+s01-000-00-1015 ok # mean filter, the median filter and
+s01-000-00-1016 ok # filter are frequently used. The me
+s01-000-00-1017 ok # lowpass or smoothing filter that re
+s01-000-00-1018 ok # values with the neighborhood mean.
+s01-000-00-1019 ok # image noise but blurs the image edg
+s01-000-00-1020 ok # filter calculates the median of the
+s01-000-00-1021 ok # for each pixel, thereby reducing tl
+s01-000-00-1022 ok # Finally, the opening closing filter
+s01-000-00-1023 ok # morphological filter that combines
+s01-000-00-1024 ok # There exist several methods to design forms with
+s01-000-00-1025 ok # For instance, fields may be surrounded by bounding bo
+s01-000-00-1026 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1027 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1028 ok # These guides can be located on a separate sheet of pape
+s01-000-00-1029 ok # the form or they can be printed directly on the form.
+s01-000-00-1030 ok # a separate sheet is much better from the point of vier
+s01-000-00-1031 ok # scanned image, but requires giving more instructions a
+s01-000-00-1032 ok # restricts its use to tasks where this type of acquisit
+s01-000-00-1033 ok # rulers printed on the form are more commonly used
+s01-000-00-1034 ok # rectangles can be removed more easily with filters tha
+s01-000-00-1035 ok # the handwritten text touches the rulers. Nevertheless,
+s01-000-00-1036 ok # must be taken into account: The best way to print
+s01-000-00-1037 ok # is in a different color (i.e. light yellow); however,
+s01-000-00-1038 ok # expensive than printing gray rectangles with black-an
+s01-000-00-1039 ok # There are several classic spatial filters for reducir
+s01-000-00-1040 ok # frequency noise from images. The mean filter, the
+s01-000-00-1041 ok # closing opening filter are frequently used. The mean
+s01-000-00-1042 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1043 ok # It reduces the image noise but blurs the image edge
+s01-000-00-1044 ok # calculates the median of the pixel neighborhood for eac
+s01-000-00-1045 ok # ing the blurring effect. Finally, the opening closing fi
+s01-000-00-1046 ok # morphological filter that combines the same number o
+s01-000-00-1047 ok # morphological operations in order to eliminate small
+s01-000-00-1048 ok # The main goal was to train a neural network in a
+s01-000-00-1049 ok # obtain a clean image from a noisy one. In this partic
+s01-000-00-1050 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1051 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1052 ok # follows this scheme: This process requires images of
+s01-000-00-1053 ok # rectangles) of the acquisition forms. which were obt
+s01-000-00-1054 ok # There exist several methods to design forms with
+s01-000-00-1055 ok # For instance, fields may be surrounded by bounding bo
+s01-000-00-1056 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1057 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1058 ok # These guides can be located on a separate sheet of pape
+s01-000-00-1059 ok # the form or they can be printed directly on the form.
+s01-000-00-1060 ok # a separate sheet is much better from the point of vier
+s01-000-00-1061 ok # scanned image, but requires giving more instructions a
+s01-000-00-1062 ok # restricts its use to tasks where this type of acquisit
+s01-000-00-1063 ok # rulers printed on the form are more commonly used
+s01-000-00-1064 ok # rectangles can be removed more easily with filters tha
+s01-000-00-1065 ok # the handwritten text touches the rulers. Nevertheless,
+s01-000-00-1066 ok # must be taken into account: The best way to print
+s01-000-00-1067 ok # is in a different color (i.e. light yellow); however,
+s01-000-00-1068 ok # expensive than printing gray rectangles with black-an
+s01-000-00-1069 ok # There are several classic spatial filters for reducir
+s01-000-00-1070 ok # frequency noise from images. The mean filter, the
+s01-000-00-1071 ok # closing opening filter are frequently used. The mean
+s01-000-00-1072 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1073 ok # It reduces the image noise but blurs the image edge
+s01-000-00-1074 ok # calculates the median of the pixel neighborhood for eac
+s01-000-00-1075 ok # ing the blurring effect. Finally, the opening closing fi
+s01-000-00-1076 ok # morphological filter that combines the same number o
+s01-000-00-1077 ok # morphological operations in order to eliminate small
+s01-000-00-1078 ok # The main goal was to train a neural network in a
+s01-000-00-1079 ok # obtain a clean image from a noisy one. In this partic
+s01-000-00-1080 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1081 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1082 ok # follows this scheme: This process requires images of
+s01-000-00-1083 ok # rectangles) of the acquisition forms. which were obt
+s01-000-00-1084 ok # There exist several methods to design forms with
+s01-000-00-1085 ok # For instance, fields may be surrounded by bounding bo
+s01-000-00-1086 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1087 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1088 ok # These guides can be located on a separate sheet of pape
+s01-000-00-1089 ok # the form or they can be printed directly on the form.
+s01-000-00-1090 ok # a separate sheet is much better from the point of vier
+s01-000-00-1091 ok # scanned image, but requires giving more instructions a
+s01-000-00-1092 ok # restricts its use to tasks where this type of acquisit
+s01-000-00-1093 ok # rulers printed on the form are more commonly used
+s01-000-00-1094 ok # rectangles can be removed more easily with filters tha
+s01-000-00-1095 ok # the handwritten text touches the rulers. Nevertheless,
+s01-000-00-1096 ok # must be taken into account: The best way to print
+s01-000-00-1097 ok # is in a different color (i.e. light yellow); however,
+s01-000-00-1098 ok # expensive than printing gray rectangles with black-an
+s01-000-00-1099 ok # There are several classic spatial filters for reducir
+s01-000-00-1100 ok # frequency noise from images. The mean filter, the
+s01-000-00-1101 ok # closing opening filter are frequently used. The mean
+s01-000-00-1102 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1103 ok # It reduces the image noise but blurs the image edge
+s01-000-00-1104 ok # calculates the median of the pixel neighborhood for eac
+s01-000-00-1105 ok # ing the blurring effect. Finally, the opening closing fi
+s01-000-00-1106 ok # morphological filter that combines the same number o
+s01-000-00-1107 ok # morphological operations in order to eliminate small
+s01-000-00-1108 ok # The main goal was to train a neural network in a
+s01-000-00-1109 ok # obtain a clean image from a noisy one. In this partic
+s01-000-00-1110 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1111 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1112 ok # follows this scheme: This process requires images of
+s01-000-00-1113 ok # rectangles) of the acquisition forms. which were obt
+s01-000-00-1114 ok # There exist several methods to design forms with
+s01-000-00-1115 ok # For instance, fields may be surrounded by bounding bo
+s01-000-00-1116 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1117 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1118 ok # These guides can be located on a separate sheet of pape
+s01-000-00-1119 ok # the form or they can be printed directly on the form.
+s01-000-00-1120 ok # a separate sheet is much better from the point of vier
+s01-000-00-1121 ok # scanned image, but requires giving more instructions a
+s01-000-00-1122 ok # restricts its use to tasks where this type of acquisit
+s01-000-00-1123 ok # rulers printed on the form are more commonly used
+s01-000-00-1124 ok # rectangles can be removed more easily with filters tha
+s01-000-00-1125 ok # the handwritten text touches the rulers. Nevertheless,
+s01-000-00-1126 ok # must be taken into account: The best way to print
+s01-000-00-1127 ok # is in a different color (i.e. light yellow); however,
+s01-000-00-1128 ok # expensive than printing gray rectangles with black-an
+s01-000-00-1129 ok # There are several classic spatial filters for reducir
+s01-000-00-1130 ok # frequency noise from images. The mean filter, the
+s01-000-00-1131 ok # closing opening filter are frequently used. The mean
+s01-000-00-1132 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1133 ok # It reduces the image noise but blurs the image edge
+s01-000-00-1134 ok # calculates the median of the pixel neighborhood for eac
+s01-000-00-1135 ok # ing the blurring effect. Finally, the opening closing fi
+s01-000-00-1136 ok # morphological filter that combines the same number o
+s01-000-00-1137 ok # morphological operations in order to eliminate small
+s01-000-00-1138 ok # The main goal was to train a neural network in a
+s01-000-00-1139 ok # obtain a clean image from a noisy one. In this partic
+s01-000-00-1140 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1141 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1142 ok # follows this scheme: This process requires images of
+s01-000-00-1143 ok # rectangles) of the acquisition forms. which were obt
+s01-000-00-1144 ok # There exist several methods to design forms with fic
+s01-000-00-1145 ok # instance, fields may be surrounded by bounding boxe
+s01-000-00-1146 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1147 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1148 ok # ‘These guides can be located on a separate sheet of
+s01-000-00-1149 ok # below the form or they can be printed directly on
+s01-000-00-1150 ok # guides on a separate sheet is much better from the
+s01-000-00-1151 ok # quality of the scanned image, but requires giving
+s01-000-00-1152 ok # more importantly, restricts its use to tasks where th
+s01-000-00-1153 ok # is used. Guiding rulers printed on the form are mot
+s01-000-00-1154 ok # this reason. Light rectangles can be removed more e
+s01-000-00-1155 ok # dark lines whenever the handwritten text touches the
+s01-000-00-1156 ok # other practical issues must be taken into account: J
+s01-000-00-1157 ok # these light rectangles is in a different color (i.e. li
+s01-000-00-1158 ok # this approach is more expensive than printing gray
+s01-000-00-1159 ok # There are several classic spatial filters for reducir
+s01-000-00-1160 ok # frequency noise from images. The mean filter, the
+s01-000-00-1161 ok # closing opening filter are frequently used. The mean
+s01-000-00-1162 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1163 ok # Tt reduces the image noise but blurs the image edges.
+s01-000-00-1164 ok # culates the median of the pixel neighborhood for each
+s01-000-00-1165 ok # ing the blurring effect. Finally, the opening closing fil
+s01-000-00-1166 ok # morphological filter that combines the same number
+s01-000-00-1167 ok # morphological operations in order to eliminate small
+s01-000-00-1168 ok # ‘The main goal was to train a neural network in a
+s01-000-00-1169 ok # obtain a clean image from a noisy one. In this partici
+s01-000-00-1170 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1171 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1172 ok # follows this scheme: This process requires images of
+s01-000-00-1173 ok # rectangles) of the acquisition forms. which were obts
+s01-000-00-1174 ok # There exist several methods to design forms with fic
+s01-000-00-1175 ok # instance, fields may be surrounded by bounding boxe
+s01-000-00-1176 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1177 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1178 ok # ‘These guides can be located on a separate sheet of
+s01-000-00-1179 ok # below the form or they can be printed directly on 1
+s01-000-00-1180 ok # guides on a separate sheet is much better from the
+s01-000-00-1181 ok # quality of the scanned image, but requires giving 1
+s01-000-00-1182 ok # more importantly, restricts its use to tasks where th
+s01-000-00-1183 ok # is used. Guiding rulers printed on the form are mot
+s01-000-00-1184 ok # this reason. Light rectangles can be removed more e
+s01-000-00-1185 ok # dark lines whenever the handwritten text touches the
+s01-000-00-1186 ok # other practical issues must be taken into account: J
+s01-000-00-1187 ok # these light rectangles is in a different color (i.e. li
+s01-000-00-1188 ok # this approach is more expensive than printing gray
+s01-000-00-1189 ok # There are several classic spatial filters for reducir
+s01-000-00-1190 ok # frequency noise from images. The mean filter, the
+s01-000-00-1191 ok # closing opening filter are frequently used. The mean
+s01-000-00-1192 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1193 ok # Tt reduces the image noise but blurs the image edges.
+s01-000-00-1194 ok # culates the median of the pixel neighborhood for each
+s01-000-00-1195 ok # ing the blurring effect. Finally, the opening closing fil
+s01-000-00-1196 ok # morphological filter that combines the same number
+s01-000-00-1197 ok # morphological operations in order to eliminate small
+s01-000-00-1198 ok # ‘The main goal was to train a neural network in a
+s01-000-00-1199 ok # obtain a clean image from a noisy one. In this partici
+s01-000-00-1200 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1201 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1202 ok # follows this scheme: This process requires images of
+s01-000-00-1203 ok # rectangles) of the acquisition forms. which were obts
+s01-000-00-1204 ok # There exist several methods to design forms with fic
+s01-000-00-1205 ok # instance, fields may be surrounded by bounding boxe
+s01-000-00-1206 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1207 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1208 ok # ‘These guides can be located on a separate sheet of
+s01-000-00-1209 ok # below the form or they can be printed directly on
+s01-000-00-1210 ok # guides on a separate sheet is much better from the
+s01-000-00-1211 ok # quality of the scanned image, but requires giving
+s01-000-00-1212 ok # more importantly, restricts its use to tasks where th
+s01-000-00-1213 ok # is used. Guiding rulers printed on the form are mot
+s01-000-00-1214 ok # this reason. Light rectangles can be removed more e
+s01-000-00-1215 ok # dark lines whenever the handwritten text touches the
+s01-000-00-1216 ok # other practical issues must be taken into account: J
+s01-000-00-1217 ok # these light rectangles is in a different color (i.e. li
+s01-000-00-1218 ok # this approach is more expensive than printing gray 1
+s01-000-00-1219 ok # There are several classic spatial filters for reducir
+s01-000-00-1220 ok # frequency noise from images. The mean filter, the
+s01-000-00-1221 ok # closing opening filter are frequently used. The mean
+s01-000-00-1222 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1223 ok # Tt reduces the image noise but blurs the image edges.
+s01-000-00-1224 ok # culates the median of the pixel neighborhood for each
+s01-000-00-1225 ok # ing the blurring effect. Finally, the opening closing fil
+s01-000-00-1226 ok # morphological filter that combines the same number
+s01-000-00-1227 ok # morphological operations in order to eliminate small
+s01-000-00-1228 ok # ‘The main goal was to train a neural network in a
+s01-000-00-1229 ok # obtain a clean image from a noisy one. In this partici
+s01-000-00-1230 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1231 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1232 ok # follows this scheme: This process requires images of
+s01-000-00-1233 ok # rectangles) of the acquisition forms. which were obts
+s01-000-00-1234 ok # There exist several methods to design forms with fic
+s01-000-00-1235 ok # instance, fields may be surrounded by bounding boxe
+s01-000-00-1236 ok # or by guiding rulers. These methods specify where tc
+s01-000-00-1237 ok # minimize the effect of skew and overlapping with otl
+s01-000-00-1238 ok # ‘These guides can be located on a separate sheet of
+s01-000-00-1239 ok # below the form or they can be printed directly on
+s01-000-00-1240 ok # guides on a separate sheet is much better from the
+s01-000-00-1241 ok # quality of the scanned image, but requires giving
+s01-000-00-1242 ok # more importantly, restricts its use to tasks where th
+s01-000-00-1243 ok # is used. Guiding rulers printed on the form are mot
+s01-000-00-1244 ok # this reason. Light rectangles can be removed more e
+s01-000-00-1245 ok # dark lines whenever the handwritten text touches the
+s01-000-00-1246 ok # other practical issues must be taken into account: J
+s01-000-00-1247 ok # these light rectangles is in a different color (i.e. li
+s01-000-00-1248 ok # this approach is more expensive than printing gray
+s01-000-00-1249 ok # There are several classic spatial filters for reducir
+s01-000-00-1250 ok # frequency noise from images. The mean filter, the
+s01-000-00-1251 ok # closing opening filter are frequently used. The mean
+s01-000-00-1252 ok # smoothing filter that replaces the pixel values with th
+s01-000-00-1253 ok # Tt reduces the image noise but blurs the image edges.
+s01-000-00-1254 ok # culates the median of the pixel neighborhood for each
+s01-000-00-1255 ok # ing the blurring effect. Finally, the opening closing fil
+s01-000-00-1256 ok # morphological filter that combines the same number
+s01-000-00-1257 ok # morphological operations in order to eliminate small
+s01-000-00-1258 ok # ‘The main goal was to train a neural network in a
+s01-000-00-1259 ok # obtain a clean image from a noisy one. In this partici
+s01-000-00-1260 ok # easier to obtain a simulated noisy image from a clea
+s01-000-00-1261 ok # subset of noisy images. The process for obtaining si
+s01-000-00-1262 ok # follows this scheme: This process requires images of
+s01-000-00-1263 ok # rectangles) of the acquisition forms. which were obts
+s01-000-00-1264 ok # There exist several methods to design forms with fie
+s01-000-00-1265 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1266 ok # guiding rulers. These methods specify where to write ai
+s01-000-00-1267 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1268 ok # can be located on a separate sheet of paper that is loc.
+s01-000-00-1269 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1270 ok # is much better from the point of view of the quality of t
+s01-000-00-1271 ok # requires giving more instructions and, more importantly,
+s01-000-00-1272 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1273 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1274 ok # easily with filters than dark lines whenever the handwi
+s01-000-00-1275 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1276 ok # best way to print these light rectangles is in a different
+s01-000-00-1277 ok # however, this approach is more expensive than printin,
+s01-000-00-1278 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1279 ok # There are several classic spatial filters for reducing
+s01-000-00-1280 ok # quency noise from images. The mean filter, the media
+s01-000-00-1281 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1282 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1283 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1284 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1285 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1286 ok # combines the same number of erosion and dilation mort
+s01-000-00-1287 ok # order to eliminate small objects from images.
+s01-000-00-1288 ok # The main goal was to train a neural network in a supe
+s01-000-00-1289 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1290 ok # obtain a simulated noisy image from a clean one thai
+s01-000-00-1291 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1292 ok # scheme: This process requires images of the backgrout
+s01-000-00-1293 ok # the acquisition forms, which were obtained by printing .
+s01-000-00-1294 ok # There exist several methods to design forms with fie
+s01-000-00-1295 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1296 ok # guiding rulers. These methods specify where to write ai
+s01-000-00-1297 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1298 ok # can be located on a separate sheet of paper that is loc.
+s01-000-00-1299 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1300 ok # is much better from the point of view of the quality of t
+s01-000-00-1301 ok # requires giving more instructions and, more importantly,
+s01-000-00-1302 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1303 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1304 ok # easily with filters than dark lines whenever the handwi
+s01-000-00-1305 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1306 ok # best way to print these light rectangles is in a different
+s01-000-00-1307 ok # however, this approach is more expensive than printin,
+s01-000-00-1308 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1309 ok # There are several classic spatial filters for reducing
+s01-000-00-1310 ok # quency noise from images. The mean filter, the media
+s01-000-00-1311 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1312 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1313 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1314 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1315 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1316 ok # combines the same number of erosion and dilation mort
+s01-000-00-1317 ok # order to eliminate small objects from images.
+s01-000-00-1318 ok # The main goal was to train a neural network in a supe
+s01-000-00-1319 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1320 ok # obtain a simulated noisy image from a clean one thai
+s01-000-00-1321 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1322 ok # scheme: This process requires images of the backgrout
+s01-000-00-1323 ok # the acquisition forms, which were obtained by printing .
+s01-000-00-1324 ok # There exist several methods to design forms with fie
+s01-000-00-1325 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1326 ok # guiding rulers. These methods specify where to write ai
+s01-000-00-1327 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1328 ok # can be located on a separate sheet of paper that is loc.
+s01-000-00-1329 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1330 ok # is much better from the point of view of the quality of t
+s01-000-00-1331 ok # requires giving more instructions and, more importantly,
+s01-000-00-1332 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1333 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1334 ok # easily with filters than dark lines whenever the handwi
+s01-000-00-1335 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1336 ok # best way to print these light rectangles is in a different
+s01-000-00-1337 ok # however, this approach is more expensive than printin,
+s01-000-00-1338 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1339 ok # There are several classic spatial filters for reducing
+s01-000-00-1340 ok # quency noise from images. The mean filter, the media
+s01-000-00-1341 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1342 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1343 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1344 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1345 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1346 ok # combines the same number of erosion and dilation mort
+s01-000-00-1347 ok # order to eliminate small objects from images.
+s01-000-00-1348 ok # The main goal was to train a neural network in a supe
+s01-000-00-1349 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1350 ok # obtain a simulated noisy image from a clean one thai
+s01-000-00-1351 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1352 ok # scheme: This process requires images of the backgrout
+s01-000-00-1353 ok # the acquisition forms, which were obtained by printing .
+s01-000-00-1354 ok # There exist several methods to design forms with fie
+s01-000-00-1355 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1356 ok # guiding rulers. These methods specify where to write ai
+s01-000-00-1357 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1358 ok # can be located on a separate sheet of paper that is loc.
+s01-000-00-1359 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1360 ok # is much better from the point of view of the quality of t
+s01-000-00-1361 ok # requires giving more instructions and, more importantly,
+s01-000-00-1362 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1363 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1364 ok # easily with filters than dark lines whenever the handwi
+s01-000-00-1365 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1366 ok # best way to print these light rectangles is in a different
+s01-000-00-1367 ok # however, this approach is more expensive than printin,
+s01-000-00-1368 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1369 ok # There are several classic spatial filters for reducing
+s01-000-00-1370 ok # quency noise from images. The mean filter, the media
+s01-000-00-1371 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1372 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1373 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1374 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1375 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1376 ok # combines the same number of erosion and dilation mort
+s01-000-00-1377 ok # order to eliminate small objects from images.
+s01-000-00-1378 ok # The main goal was to train a neural network in a supe
+s01-000-00-1379 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1380 ok # obtain a simulated noisy image from a clean one thai
+s01-000-00-1381 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1382 ok # scheme: This process requires images of the backgrout
+s01-000-00-1383 ok # the acquisition forms, which were obtained by printing .
+s01-000-00-1384 ok # There exist several methods to design forms with fie
+s01-000-00-1385 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1386 ok # guiding rulers. These methods specify where to write a
+s01-000-00-1387 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1388 ok # can be located on a separate sheet of paper that is locz
+s01-000-00-1389 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1390 ok # is much better from the point of view of the quality of t
+s01-000-00-1391 ok # requires giving more instructions and, more importantly,
+s01-000-00-1392 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1393 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1394 ok # easily with filters than dark lines whenever the handwr
+s01-000-00-1395 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1396 ok # best way to print these light rectangles is in a different
+s01-000-00-1397 ok # however, this approach is more expensive than printin;
+s01-000-00-1398 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1399 ok # There are several classic spatial filters for reducing
+s01-000-00-1400 ok # quency noise from images. The mean filter, the media
+s01-000-00-1401 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1402 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1403 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1404 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1405 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1406 ok # combines the same number of erosion and dilation morp
+s01-000-00-1407 ok # order to eliminate small objects from images.
+s01-000-00-1408 ok # The main goal was to train a neural network in a supe
+s01-000-00-1409 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1410 ok # obtain a simulated noisy image from a clean one thar
+s01-000-00-1411 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1412 ok # scheme: This process requires images of the backgrour
+s01-000-00-1413 ok # the acquisition forms, which were obtained by printing
+s01-000-00-1414 ok # There exist several methods to design forms with fie
+s01-000-00-1415 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1416 ok # guiding rulers. These methods specify where to write a
+s01-000-00-1417 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1418 ok # can be located on a separate sheet of paper that is locz
+s01-000-00-1419 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1420 ok # is much better from the point of view of the quality of t
+s01-000-00-1421 ok # requires giving more instructions and, more importantly,
+s01-000-00-1422 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1423 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1424 ok # easily with filters than dark lines whenever the handwr
+s01-000-00-1425 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1426 ok # best way to print these light rectangles is in a different
+s01-000-00-1427 ok # however, this approach is more expensive than printin
+s01-000-00-1428 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1429 ok # There are several classic spatial filters for reducing
+s01-000-00-1430 ok # quency noise from images. The mean filter, the media
+s01-000-00-1431 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1432 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1433 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1434 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1435 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1436 ok # combines the same number of erosion and dilation morp
+s01-000-00-1437 ok # order to eliminate small objects from images.
+s01-000-00-1438 ok # The main goal was to train a neural network in a supe
+s01-000-00-1439 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1440 ok # obtain a simulated noisy image from a clean one thar
+s01-000-00-1441 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1442 ok # scheme: This process requires images of the backgrour
+s01-000-00-1443 ok # the acquisition forms, which were obtained by printing
+s01-000-00-1444 ok # There exist several methods to design forms with fie
+s01-000-00-1445 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1446 ok # guiding rulers. These methods specify where to write a1
+s01-000-00-1447 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1448 ok # can be located on a separate sheet of paper that is locz
+s01-000-00-1449 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1450 ok # is much better from the point of view of the quality of t
+s01-000-00-1451 ok # requires giving more instructions and, more importantly,
+s01-000-00-1452 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1453 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1454 ok # easily with filters than dark lines whenever the handwr
+s01-000-00-1455 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1456 ok # best way to print these light rectangles is in a different
+s01-000-00-1457 ok # however, this approach is more expensive than printin
+s01-000-00-1458 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1459 ok # There are several classic spatial filters for reducing
+s01-000-00-1460 ok # quency noise from images. The mean filter, the media
+s01-000-00-1461 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1462 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1463 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1464 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1465 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1466 ok # combines the same number of erosion and dilation morp
+s01-000-00-1467 ok # order to eliminate small objects from images.
+s01-000-00-1468 ok # The main goal was to train a neural network in a supe
+s01-000-00-1469 ok # a clean image from a noisy one. In this particular case,
+s01-000-00-1470 ok # obtain a simulated noisy image from a clean one thar
+s01-000-00-1471 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1472 ok # scheme: This process requires images of the backgrour
+s01-000-00-1473 ok # the acquisition forms, which were obtained by printing
+s01-000-00-1474 ok # There exist several methods to design forms with fie
+s01-000-00-1475 ok # instance, fields may be surrounded by bounding boxes, b
+s01-000-00-1476 ok # guiding rulers. These methods specify where to write a1
+s01-000-00-1477 ok # the effect of skew and overlapping with other parts of t
+s01-000-00-1478 ok # can be located on a separate sheet of paper that is locz
+s01-000-00-1479 ok # they can be printed directly on the form. The use of gui
+s01-000-00-1480 ok # is much better from the point of view of the quality of t
+s01-000-00-1481 ok # requires giving more instructions and, more importantly,
+s01-000-00-1482 ok # where this type of acquisition is used. Guiding rulers p
+s01-000-00-1483 ok # more commonly used for this reason. Light rectangles
+s01-000-00-1484 ok # easily with filters than dark lines whenever the handwr
+s01-000-00-1485 ok # rulers. Nevertheless, other practical issues must be tal
+s01-000-00-1486 ok # best way to print these light rectangles is in a different
+s01-000-00-1487 ok # however, this approach is more expensive than printin;
+s01-000-00-1488 ok # black-and-white laser printers. A more economical anc
+s01-000-00-1489 ok # There are several classic spatial filters for reducing
+s01-000-00-1490 ok # quency noise from images. The mean filter, the media
+s01-000-00-1491 ok # opening filter are frequently used. The mean filter is a
+s01-000-00-1492 ok # filter that replaces the pixel values with the neighborhoo
+s01-000-00-1493 ok # image noise but blurs the image edges. The median filte
+s01-000-00-1494 ok # of the pixel neighborhood for each pixel, thereby reduc
+s01-000-00-1495 ok # Finally, the opening closing filter is a mathematical m
+s01-000-00-1496 ok # combines the same number of erosion and dilation morp
+s01-000-00-1497 ok # order to eliminate small objects from images.
+s01-000-00-1498 ok # The main goal was to train a neural network in a supe
+s01-000-00-1499 ok # a clean image from a noisy one. In this particular case
+s01-000-00-1500 ok # obtain a simulated noisy image from a clean one thar
+s01-000-00-1501 ok # noisy images. The process for obtaining simulated no
+s01-000-00-1502 ok # scheme: This process requires images of the backgrour
+s01-000-00-1503 ok # the acquisition forms, which were obtained by printing
+s01-000-00-1504 ok # There exist several methods to design forn
+s01-000-00-1505 ok # filled in. For instance, fields may be surri
+s01-000-00-1506 ok # by light rectangles or by guiding rulers. Ii
+s01-000-00-1507 ok # where to write and, therefore, minimize the
+s01-000-00-1508 ok # with other parts of the form. These guides
+s01-000-00-1509 ok # separate sheet of paper that is located belo
+s01-000-00-1510 ok # be printed directly on the form. The use of
+s01-000-00-1511 ok # sheet is much better from the point of view
+s01-000-00-1512 ok # scanned image, but requires giving more insti
+s01-000-00-1513 ok # restricts its use to tasks where this type
+s01-000-00-1514 ok # Guiding rulers printed on the form are more
+s01-000-00-1515 ok # reason. Lirght rectangles can be removed more
+s01-000-00-1516 ok # than dark lines whenever the handwritten tea
+s01-000-00-1517 ok # Nevertheless, other practical issues must be
+s01-000-00-1518 ok # The best way to print these light rectangles
+s01-000-00-1519 ok # There are several classic spatial filters
+s01-000-00-1520 ok # high frequency noise from images. The mean 
+s01-000-00-1521 ok # and the closing opening filter are frequentlt
+s01-000-00-1522 ok # ats a lowpass or smoothing filter that replace
+s01-000-00-1523 ok # with the neighborhood mean. It reduces the
+s01-000-00-1524 ok # the image edges. The median filter calculate
+s01-000-00-1525 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1526 ok # effect. Finally, the opening closing filter
+s01-000-00-1527 ok # filter that combines the same number of eros
+s01-000-00-1528 ok # operations in order to eliminate small object
+s01-000-00-1529 ok # the main goal was to train a neural networ
+s01-000-00-1530 ok # to obtain a clean image from a noisy one.
+s01-000-00-1531 ok # at was much easier to obtain a simulated noi
+s01-000-00-1532 ok # one than to clean a subset of noisy images.
+s01-000-00-1533 ok # simulated noisy images follows this scheme
+s01-000-00-1534 ok # There exist several methods to design forn
+s01-000-00-1535 ok # filled in. For instance, fields may be surri
+s01-000-00-1536 ok # by light rectangles or by guiding rulers. Ii
+s01-000-00-1537 ok # where to write and, therefore, minimize the
+s01-000-00-1538 ok # with other parts of the form. These guides
+s01-000-00-1539 ok # separate sheet of paper that is located belo
+s01-000-00-1540 ok # be printed directly on the form. The use of
+s01-000-00-1541 ok # sheet is much better from the point of view
+s01-000-00-1542 ok # scanned image, but requires giving more insti
+s01-000-00-1543 ok # restricts its use to tasks where this type 0
+s01-000-00-1544 ok # Guiding rulers printed on the form are more
+s01-000-00-1545 ok # reason. Lirght rectangles can be removed more
+s01-000-00-1546 ok # than dark lines whenever the handwritten tea
+s01-000-00-1547 ok # Nevertheless, other practical issues must be
+s01-000-00-1548 ok # The best way to print these light rectangles
+s01-000-00-1549 ok # There are several classic spatial filters
+s01-000-00-1550 ok # high frequency noise from images. The mean
+s01-000-00-1551 ok # and the closing opening filter are frequentlt
+s01-000-00-1552 ok # ats a lowpass or smoothing filter that replace
+s01-000-00-1553 ok # with the neighborhood mean. It reduces the
+s01-000-00-1554 ok # the image edges. The median filter calculate
+s01-000-00-1555 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1556 ok # effect. Finally, the opening closing filter
+s01-000-00-1557 ok # filter that combines the same number of eros
+s01-000-00-1558 ok # operations in order to eliminate small object
+s01-000-00-1559 ok # the main goal was to train a neural networ
+s01-000-00-1560 ok # to obtain a clean image from a noisy one.
+s01-000-00-1561 ok # at was much easier to obtain a simulated noi
+s01-000-00-1562 ok # one than to clean a subset of noisy images.
+s01-000-00-1563 ok # simulated noisy images follows this scheme
+s01-000-00-1564 ok # There exist several methods to design forn
+s01-000-00-1565 ok # filled in. For instance, fields may be surri
+s01-000-00-1566 ok # by light rectangles or by guiding rulers. Ii
+s01-000-00-1567 ok # where to write and, therefore, minimize the
+s01-000-00-1568 ok # with other parts of the form. These guides
+s01-000-00-1569 ok # separate sheet of paper that is located belo
+s01-000-00-1570 ok # be printed directly on the form. The use of
+s01-000-00-1571 ok # sheet is much better from the point of view
+s01-000-00-1572 ok # scanned image, but requires giving more insti
+s01-000-00-1573 ok # restricts its use to tasks where this type
+s01-000-00-1574 ok # Guiding rulers printed on the form are more
+s01-000-00-1575 ok # reason. Lirght rectangles can be removed more
+s01-000-00-1576 ok # than dark lines whenever the handwritten tea
+s01-000-00-1577 ok # Nevertheless, other practical issues must be
+s01-000-00-1578 ok # The best way to print these light rectangles
+s01-000-00-1579 ok # There are several classic spatial filters
+s01-000-00-1580 ok # high frequency noise from images. The mean
+s01-000-00-1581 ok # and the closing opening filter are frequentlt
+s01-000-00-1582 ok # ats a lowpass or smoothing filter that replace
+s01-000-00-1583 ok # with the neighborhood mean. It reduces the
+s01-000-00-1584 ok # the image edges. The median filter calculate
+s01-000-00-1585 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1586 ok # effect. Finally, the opening closing filter
+s01-000-00-1587 ok # filter that combines the same number of eros
+s01-000-00-1588 ok # operations in order to eliminate small object
+s01-000-00-1589 ok # the main goal was to train a neural networ
+s01-000-00-1590 ok # to obtain a clean image from a noisy one.
+s01-000-00-1591 ok # at was much easier to obtain a simulated noi
+s01-000-00-1592 ok # one than to clean a subset of noisy images.
+s01-000-00-1593 ok # simulated noisy images follows this scheme
+s01-000-00-1594 ok # There exist several methods to design forn
+s01-000-00-1595 ok # filled in. For instance, fields may be surri
+s01-000-00-1596 ok # by light rectangles or by guiding rulers. Ii
+s01-000-00-1597 ok # where to write and, therefore, minimize the
+s01-000-00-1598 ok # with other parts of the form. These guides
+s01-000-00-1599 ok # separate sheet of paper that is located belo
+s01-000-00-1600 ok # be printed directly on the form. The use of
+s01-000-00-1601 ok # sheet is much better from the point of view
+s01-000-00-1602 ok # scanned image, but requires giving more insti
+s01-000-00-1603 ok # restricts its use to tasks where this type
+s01-000-00-1604 ok # Guiding rulers printed on the form are more
+s01-000-00-1605 ok # reason. Lirght rectangles can be removed more
+s01-000-00-1606 ok # than dark lines whenever the handwritten tea
+s01-000-00-1607 ok # Nevertheless, other practical issues must be
+s01-000-00-1608 ok # The best way to print these light rectangles
+s01-000-00-1609 ok # There are several classic spatial filters
+s01-000-00-1610 ok # high frequency noise from images. The mean
+s01-000-00-1611 ok # and the closing opening filter are frequentlt
+s01-000-00-1612 ok # ats a lowpass or smoothing filter that replace
+s01-000-00-1613 ok # with the neighborhood mean. It reduces the
+s01-000-00-1614 ok # the image edges. The median filter calculate
+s01-000-00-1615 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1616 ok # effect. Finally, the opening closing filter
+s01-000-00-1617 ok # filter that combines the same number of eros
+s01-000-00-1618 ok # operations in order to eliminate small object
+s01-000-00-1619 ok # the main goal was to train a neural networ
+s01-000-00-1620 ok # to obtain a clean image from a noisy one.
+s01-000-00-1621 ok # at was much easier to obtain a simulated noi
+s01-000-00-1622 ok # one than to clean a subset of noisy images.
+s01-000-00-1623 ok # simulated noisy images follows this scheme
+s01-000-00-1624 ok # There exist several methods to design forn
+s01-000-00-1625 ok # filled in. For instance, fields may be surr
+s01-000-00-1626 ok # by light rectangles or by guiding rulers. Tt
+s01-000-00-1627 ok # where to write and, therefore, minimize the
+s01-000-00-1628 ok # with other parts of the form. These guides
+s01-000-00-1629 ok # separate sheet of paper that is located belov
+s01-000-00-1630 ok # be printed directly on the form. The use of
+s01-000-00-1631 ok # sheet is much better from the point of view
+s01-000-00-1632 ok # scanned image, but requires giving more inst
+s01-000-00-1633 ok # restricts its use to tasks where this type of
+s01-000-00-1634 ok # Guiding rulers printed on the form are more
+s01-000-00-1635 ok # reason. Light rectangles can be removed more
+s01-000-00-1636 ok # than dark lines whenever the handwritten text
+s01-000-00-1637 ok # Nevertheless, other practical issues must be
+s01-000-00-1638 ok # The best way to print these light rectangles
+s01-000-00-1639 ok # There are several classic spatial filters
+s01-000-00-1640 ok # high frequency noise from images. The mean f
+s01-000-00-1641 ok # and the closing opening filter are frequent
+s01-000-00-1642 ok # is a lowpass or smoothing filter that replace
+s01-000-00-1643 ok # with the neighborhood mean. It reduces the ij
+s01-000-00-1644 ok # the image edges. The median filter calculate
+s01-000-00-1645 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1646 ok # effect. Finally, the opening closing filter
+s01-000-00-1647 ok # filter that combines the same number of erosi
+s01-000-00-1648 ok # operations in order to eliminate small object
+s01-000-00-1649 ok # The main goal was to train a neural networ
+s01-000-00-1650 ok # to obtain a clean image from a noisy one. Ir
+s01-000-00-1651 ok # it was much easier to obtain a simulated nois
+s01-000-00-1652 ok # one than to clean a subset of noisy images.
+s01-000-00-1653 ok # simulated noisy images follows this scheme
+s01-000-00-1654 ok # There exist several methods to design forn
+s01-000-00-1655 ok # filled in. For instance, fields may be surr
+s01-000-00-1656 ok # by light rectangles or by guiding rulers. Tt
+s01-000-00-1657 ok # where to write and, therefore, minimize the
+s01-000-00-1658 ok # with other parts of the form. These guides
+s01-000-00-1659 ok # separate sheet of paper that is located belov
+s01-000-00-1660 ok # be printed directly on the form. The use of
+s01-000-00-1661 ok # sheet is much better from the point of view
+s01-000-00-1662 ok # scanned image, but requires giving more inst
+s01-000-00-1663 ok # restricts its use to tasks where this type of
+s01-000-00-1664 ok # Guiding rulers printed on the form are more
+s01-000-00-1665 ok # reason. Light rectangles can be removed more
+s01-000-00-1666 ok # than dark lines whenever the handwritten text
+s01-000-00-1667 ok # Nevertheless, other practical issues must be
+s01-000-00-1668 ok # The best way to print these light rectangles
+s01-000-00-1669 ok # There are several classic spatial filters
+s01-000-00-1670 ok # high frequency noise from images. The mean f
+s01-000-00-1671 ok # and the closing opening filter are frequent
+s01-000-00-1672 ok # is a lowpass or smoothing filter that replace
+s01-000-00-1673 ok # with the neighborhood mean. It reduces the ij
+s01-000-00-1674 ok # the image edges. The median filter calculate
+s01-000-00-1675 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1676 ok # effect. Finally, the opening closing filter
+s01-000-00-1677 ok # filter that combines the same number of erosi
+s01-000-00-1678 ok # operations in order to eliminate small object
+s01-000-00-1679 ok # The main goal was to train a neural networ
+s01-000-00-1680 ok # to obtain a clean image from a noisy one. Ir
+s01-000-00-1681 ok # it was much easier to obtain a simulated nois
+s01-000-00-1682 ok # one than to clean a subset of noisy images.
+s01-000-00-1683 ok # simulated noisy images follows this scheme
+s01-000-00-1684 ok # There exist several methods to design forn
+s01-000-00-1685 ok # filled in. For instance, fields may be surr
+s01-000-00-1686 ok # by light rectangles or by guiding rulers. Tt
+s01-000-00-1687 ok # where to write and, therefore, minimize the
+s01-000-00-1688 ok # with other parts of the form. These guides
+s01-000-00-1689 ok # separate sheet of paper that is located belov
+s01-000-00-1690 ok # be printed directly on the form. The use of
+s01-000-00-1691 ok # sheet is much better from the point of view
+s01-000-00-1692 ok # scanned image, but requires giving more inst
+s01-000-00-1693 ok # restricts its use to tasks where this type of
+s01-000-00-1694 ok # Guiding rulers printed on the form are more
+s01-000-00-1695 ok # reason. Light rectangles can be removed more
+s01-000-00-1696 ok # than dark lines whenever the handwritten text
+s01-000-00-1697 ok # Nevertheless, other practical issues must be
+s01-000-00-1698 ok # The best way to print these light rectangles
+s01-000-00-1699 ok # There are several classic spatial filters
+s01-000-00-1700 ok # high frequency noise from images. The mean f
+s01-000-00-1701 ok # and the closing opening filter are frequent
+s01-000-00-1702 ok # is a lowpass or smoothing filter that replace
+s01-000-00-1703 ok # with the neighborhood mean. It reduces the ij
+s01-000-00-1704 ok # the image edges. The median filter calculate
+s01-000-00-1705 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1706 ok # effect. Finally, the opening closing filter
+s01-000-00-1707 ok # filter that combines the same number of erosi
+s01-000-00-1708 ok # operations in order to eliminate small object
+s01-000-00-1709 ok # The main goal was to train a neural networ
+s01-000-00-1710 ok # to obtain a clean image from a noisy one. Ir
+s01-000-00-1711 ok # it was much easier to obtain a simulated nois
+s01-000-00-1712 ok # one than to clean a subset of noisy images
+s01-000-00-1713 ok # simulated noisy images follows this scheme
+s01-000-00-1714 ok # There exist several methods to design forn
+s01-000-00-1715 ok # filled in. For instance, fields may be surr
+s01-000-00-1716 ok # by light rectangles or by guiding rulers. Tt
+s01-000-00-1717 ok # where to write and, therefore, minimize the
+s01-000-00-1718 ok # with other parts of the form. These guides
+s01-000-00-1719 ok # separate sheet of paper that is located belov
+s01-000-00-1720 ok # be printed directly on the form. The use of
+s01-000-00-1721 ok # sheet is much better from the point of view
+s01-000-00-1722 ok # scanned image, but requires giving more inst
+s01-000-00-1723 ok # restricts its use to tasks where this type of
+s01-000-00-1724 ok # Guiding rulers printed on the form are more
+s01-000-00-1725 ok # reason. Light rectangles can be removed more
+s01-000-00-1726 ok # than dark lines whenever the handwritten text
+s01-000-00-1727 ok # Nevertheless, other practical issues must be
+s01-000-00-1728 ok # The best way to print these light rectangles
+s01-000-00-1729 ok # There are several classic spatial filters
+s01-000-00-1730 ok # high frequency noise from images. The mean f
+s01-000-00-1731 ok # and the closing opening filter are frequent
+s01-000-00-1732 ok # is a lowpass or smoothing filter that replace
+s01-000-00-1733 ok # with the neighborhood mean. It reduces the ij
+s01-000-00-1734 ok # the image edges. The median filter calculate
+s01-000-00-1735 ok # pixel neighborhood for each pixel, thereby re
+s01-000-00-1736 ok # effect. Finally, the opening closing filter
+s01-000-00-1737 ok # filter that combines the same number of erosi
+s01-000-00-1738 ok # operations in order to eliminate small object
+s01-000-00-1739 ok # The main goal was to train a neural networ
+s01-000-00-1740 ok # to obtain a clean image from a noisy one. Ir
+s01-000-00-1741 ok # it was much easier to obtain a simulated nois
+s01-000-00-1742 ok # one than to clean a subset of noisy images.
+s01-000-00-1743 ok # a separate sheet 1s much better from the point of view of the que
+s01-000-00-1744 ok # blurring effect. finatly, the opening closing futer 1s a mathem
+s01-000-00-1745 ok # a separate sheet 1s much better from the point of view of the que
+s01-000-00-1746 ok # blurring effect. finatly, the opening closing futer 1s a mathem
+s01-000-00-1747 ok # a separate sheet 1s much better from the point of view of the que
+s01-000-00-1748 ok # blurring effect. finatly, the opening closing futer 1s a mathem
+s01-000-00-1749 ok # a separate sheet 1s much better from the point of view of the que
+s01-000-00-1750 ok # blurring effect. finatly, the opening closing futer 1s a mathem
+s01-000-00-1751 ok # form. Lhe use of guides on a separate sheet 1s much better fror
+s01-000-00-1752 ok # blurring effect. Finally, the opening closing filter is a mathem
+s01-000-00-1753 ok # form. Lhe use of guides on a separate sheet 1s much better fror
+s01-000-00-1754 ok # blurring effect. Finally, the opening closing filter is a mathem
+s01-000-00-1755 ok # form. Lhe use of guides on a separate sheet 1s much better fror
+s01-000-00-1756 ok # blurring effect. Finally, the opening closing filter is a mathem
+s01-000-00-1757 ok # form. Lhe use of guides on a separate sheet 1s much better fror
+s01-000-00-1758 ok # blurring effect. Finally, the opening closing filter is a mathem
+s01-000-00-1759 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1760 ok # effect. Finally, the opening closing filter is a mathematical morphc
+s01-000-00-1761 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1762 ok # effect. Finally, the opening closing filter is a mathematical morphc
+s01-000-00-1763 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1764 ok # effect. Finally, the opening closing filter is a mathematical morphc
+s01-000-00-1765 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1766 ok # effect. Finally, the opening closing filter is a mathematical morphc
+s01-000-00-1767 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1768 ok # effect. Finally, the opening closing filter is a mathematical morpho
+s01-000-00-1769 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1770 ok # effect. Finally, the opening closing filter is a mathematical morpho
+s01-000-00-1771 ok # separate sheet is much better from the point of view of the quality
+s01-000-00-1772 ok # effect. Finally, the opening closing filter is a mathematical morpho
+s01-000-00-1773 ok # separate sheet is much better from the point of view of the quality
