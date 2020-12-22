@@ -10,5 +10,5 @@ IOS app for taking quick notes using the camera and saving them as PDF, along wi
 - Planning to expand it to export information in a spreadsheet (csv)
 - More Work can be seen in the [WWDC 2020 Session 657: Make apps smarter with Natural Language](https://developer.apple.com/videos/play/wwdc2020/10657)
 
-<img src="https://github.com/mihaialexandruteodor/mihaialexandruteodor/blob/master/repoImages/UniPad/promo.gif?raw=true" width="250">
+<img src="https://www.youtube.com/watch?v=og1rGgQGLB8" width="250">
 
