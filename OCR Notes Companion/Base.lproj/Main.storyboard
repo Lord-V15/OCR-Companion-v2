@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--OCR COMPANION-->
+        <!--Doc Profile View Controller-->
         <scene sceneID="nbK-rw-4VR">
             <objects>
                 <viewController storyboardIdentifier="Profile" id="ceD-P0-O5j" customClass="DocProfileViewController" customModule="OCR_Companion_v2" customModuleProvider="target" sceneMemberID="viewController">
@@ -39,14 +39,14 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yLo-yZ-IWB">
-                                <rect key="frame" x="278" y="616" width="81" height="35"/>
-                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="17"/>
+                                <rect key="frame" x="277" y="619" width="82" height="32"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <state key="normal" title="Share PDF"/>
                                 <connections>
                                     <action selector="sharePDF:" destination="ceD-P0-O5j" eventType="touchUpInside" id="efF-gY-Hmw"/>
                                 </connections>
                             </button>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter a title here" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="1IW-j2-Ubt">
+                            <textField opaque="NO" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter a title here" textAlignment="natural" adjustsFontForContentSizeCategory="YES" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="1IW-j2-Ubt">
                                 <rect key="frame" x="179.5" y="96" width="162.5" height="34"/>
                                 <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="18"/>
                                 <textInputTraits key="textInputTraits"/>
@@ -84,7 +84,7 @@
                             <constraint firstItem="gNt-1g-wpb" firstAttribute="bottom" secondItem="JTj-bb-B9I" secondAttribute="bottom" constant="16" id="yBP-Th-XUH"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="OCR COMPANION" id="iJv-55-U39"/>
+                    <navigationItem key="navigationItem" id="iJv-55-U39"/>
                     <connections>
                         <outlet property="docDetailsTextView" destination="cLg-ji-142" id="KAe-F0-Z31"/>
                         <outlet property="docImageView" destination="roX-Iu-Suq" id="XUH-TQ-zQF"/>

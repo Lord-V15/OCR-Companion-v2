@@ -17,7 +17,7 @@ class DocProfileViewController: UIViewController, VNDocumentCameraViewController
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationController?.setNavigationBarHidden(false, animated: true)
-        self.title = "New Document"
+        self.title = "OCR COMPANION"
         docImageView.image = docImage
         titleTextBox.delegate = self
         
