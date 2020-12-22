@@ -19,5 +19,5 @@ IOS app for taking quick notes using the camera and saving them as PDF, along wi
 - **Click this [link](https://www.youtube.com/watch?v=og1rGgQGLB8) to watch the full app recording video on YouTube 🎥 :**
 
 <p align="center">
-  <img src = "https://j.gifs.com/QnPkLY.gif" width="150"/>
+  <img src = "https://j.gifs.com/QnPkLY.gif" width="200"/>
 </p>
