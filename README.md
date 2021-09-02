@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/lord-v15/ocr-companion-v2/badge)](https://www.codefactor.io/repository/github/lord-v15/ocr-companion-v2)
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="./Icons/iOS/AppIcon.appiconset/prizmo-2-scanning-ocr-speech-2013-05-17-1024.png" alt="App logo" align="center">
 </p>
